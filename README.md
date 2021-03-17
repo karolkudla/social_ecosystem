@@ -6,7 +6,7 @@ PHP, jQuery and MongoDB
 3. Social Portal 
 in one place
 
-Advanced Product Editor with a lot of options
+Advanced Multitype Product Editor with a lot of options
 
 Menu Editor in Shop
 
