@@ -6,8 +6,6 @@ PHP, jQuery and MongoDB
 3. Social Portal
 in one place
 
-Privileges system to separate standard users, business users and users with social posting privileges.
-
 Advanced Multitype Product Editor - we can make totally customized product attributes editor in HTML.
 After saving the offer, the jQuery script is crawling through the field's containers, types, names and values, and automagically make a new JSON document saved in MongoDB.
 This is what for the Mongo was used, instead of saving complicated data structures in relational DB.
@@ -15,7 +13,7 @@ This is what for the Mongo was used, instead of saving complicated data structur
 2. Group of fields must be of "shoper_editor_product_line container" class.
 3. Every field for crawler must be "idg" CSS class.
 4. Selects, textarea and text inputs must have additional class "std_text_input"
-Sample: ogloszenia/offer_editors/simple/moto.php
+Sample: ogloszenia/offer_editors_simple/moto.php
 
 It's possible to create an "editor for editor" for admin/moderator,
 that creates HTML layout file for new product editor.
