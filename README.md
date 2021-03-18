@@ -1,4 +1,4 @@
-# Ecommerce Social Script
+# Ecommerce Social Script (developed in 2020)
 PHP, jQuery and MongoDB
 
 1. Classifieds Portal (100% working)
