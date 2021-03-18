@@ -26,7 +26,7 @@ Shop Page Editor with menu editor
 
 Automated ads buying calculator module with Polish voivodeship / county / community division from JSON file.
 
-![adscre](https://user-images.githubusercontent.com/35747845/111640263-52777180-87fc-11eb-98d3-95ef1fd69b31.png)
+![adscre](https://user-images.githubusercontent.com/35747845/111643899-9f107c00-87ff-11eb-8c46-17806d210d99.png)
 
 Simple Social Portal with posting to few category walls.
 
