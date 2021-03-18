@@ -1,0 +1,8 @@
+[12-Mar-2021 18:02:42 UTC] PHP Notice:  Undefined index: token in /home/wokulski/vg/functions/banners/get_banners.php on line 6
+[12-Mar-2021 18:02:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wokulski/vg/functions/banners/get_banners.php on line 13
+[12-Mar-2021 18:02:42 UTC] PHP Notice:  Undefined index: token in /home/wokulski/vg/functions/banners/get_banners.php on line 6
+[12-Mar-2021 18:02:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wokulski/vg/functions/banners/get_banners.php on line 13
+[12-Mar-2021 18:02:44 UTC] PHP Notice:  Undefined index: token in /home/wokulski/vg/functions/banners/get_banners.php on line 6
+[12-Mar-2021 18:02:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wokulski/vg/functions/banners/get_banners.php on line 13
+[17-Mar-2021 16:37:09 UTC] PHP Notice:  Undefined index: transaction_history in /home/wokulski/vg/functions/banners/save_banner_transfer_data.php on line 19
+[17-Mar-2021 16:37:09 UTC] PHP Notice:  Undefined index: paynow in /home/wokulski/vg/functions/banners/save_banner_transfer_data.php on line 38

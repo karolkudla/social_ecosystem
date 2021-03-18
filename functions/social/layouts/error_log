@@ -1,0 +1,13 @@
+[12-Mar-2021 18:11:54 UTC] PHP Notice:  Undefined index: comments in /home/wokulski/vg/functions/social/layouts/post.php on line 69
+[12-Mar-2021 18:11:54 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/wokulski/vg/functions/social/layouts/post.php on line 69
+[12-Mar-2021 18:12:30 UTC] PHP Notice:  Undefined index: comments in /home/wokulski/vg/functions/social/layouts/post.php on line 69
+[12-Mar-2021 18:12:30 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/wokulski/vg/functions/social/layouts/post.php on line 69
+[17-Mar-2021 23:47:54 UTC] PHP Notice:  Undefined index: comments in /home/wokulski/vg/functions/social/layouts/post.php on line 69
+[17-Mar-2021 23:47:54 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/wokulski/vg/functions/social/layouts/post.php on line 69
+[18-Mar-2021 14:15:15 UTC] PHP Notice:  Undefined index: comments in /home/wokulski/vg/functions/social/layouts/comments.php on line 10
+[18-Mar-2021 14:17:29 UTC] PHP Notice:  Undefined variable: user_logo in /home/wokulski/vg/functions/social/layouts/comments.php on line 23
+[18-Mar-2021 14:24:03 UTC] PHP Notice:  Undefined index: comments in /home/wokulski/vg/functions/social/layouts/post.php on line 70
+[18-Mar-2021 14:24:03 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/wokulski/vg/functions/social/layouts/post.php on line 70
+[18-Mar-2021 14:24:08 UTC] PHP Notice:  Undefined index: comments in /home/wokulski/vg/functions/social/layouts/comments.php on line 10
+[18-Mar-2021 14:29:06 UTC] PHP Notice:  Undefined index: comments in /home/wokulski/vg/functions/social/layouts/post.php on line 70
+[18-Mar-2021 14:29:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/wokulski/vg/functions/social/layouts/post.php on line 70
