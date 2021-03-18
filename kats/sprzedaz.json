@@ -1,0 +1,3149 @@
+{
+  "Biuro i firma": {
+    "Artykuły BHP": {
+      "Instrukcje i znaki BHP": [],
+      "Kaski i czapki ochronne": [],
+      "Maski przeciwpyłowe i ochronne": [],
+      "Obuwie robocze": [],
+      "Odzież robocza": [],
+      "Okulary robocze": [],
+      "Pozostałe artykuły BHP": [],
+      "Rękawice robocze": [],
+      "Sprzęt gaśniczy": []
+    },
+    "Biuro": {
+      "Akcesoria i wyposażenie biurowe": {
+        "Artykuły papiernicze": [],
+        "Artykuły piśmiennicze": [],
+        "Druki": [],
+        "Dystrybutory wody": [],
+        "Dziurkacze i zszywacze": [],
+        "Pozostałe akcesoria biurowe": [],
+        "Segregatory i teczki": [],
+        "Wizytowniki": []
+      },
+      "Kserokopiarki i drukarki biurowe": {
+        "Akcesoria do drukarek biurowych": [],
+        "Drukarki etykiet": [],
+        "Drukarki i urządzenia wielofunkcyjne": [],
+        "Drukarki igłowe": [],
+        "Kserokopiarki": [],
+        "Papiery i folie": [],
+        "Plotery": [],
+        "Taśmy barwiące": []
+      },
+      "Meble biurowe": {
+        "Biurka": [],
+        "Fotele i krzesła biurowe": [],
+        "Pozostałe meble biurowe": [],
+        "Sejfy i szafki na klucze": [],
+        "Szafy regały i kartoteki biurowe": []
+      },
+      "Oświetlenie biurowe": [],
+      "Projektory i sprzęt prezentacyjny": {
+        "Akcesoria do sprzętu prezentacyjnego": [],
+        "Ekrany projekcyjne": [],
+        "Lampy do projektorów": [],
+        "Projektory": [],
+        "Rzutniki pisma i slajdów": [],
+        "Tablice interaktywne": [],
+        "Wizualizery": []
+      },
+      "Sprzęt biurowy": {
+        "Akcesoria do opraw dokumentów": [],
+        "Bindownice": [],
+        "Centrale telefoniczne": [],
+        "Gilotyny do papieru": [],
+        "Kalkulatory": [],
+        "Laminatory": [],
+        "Niszczarki": [],
+        "Organizery i translatory elektroniczne": [],
+        "Pozostały sprzęt biurowy": []
+      }
+    },
+    "Gastronomia i hotelarstwo": {
+      "Akcesoria dla kucharzy i barmanów": [],
+      "Urządzenia gastronomiczne": {
+        "Drobne urządzenia gastronomiczne": [],
+        "Urządzenia chłodnicze": [],
+        "Urządzenia do gotowania i pieczenia": [],
+        "Zmywarki i wyparzacze": []
+      },
+      "Wyposażenie hoteli i restauracji": []
+    },
+    "Handel i magazynowanie": {
+      "Manekiny i ekspozytory": [],
+      "Pozostałe wyposażenie sklepów i magazynów": [],
+      "Regały magazynowe": [],
+      "Urządzenia fiskalne": {
+        "Czytniki kodów kreskowych": [],
+        "Drukarki i kasy fiskalne": [],
+        "Liczarki i testery pieniędzy": [],
+        "Materiały eksploatacyjne do urządzeń fiskalnych": [],
+        "Metkownice": [],
+        "Pozostałe urządzenia fiskalne": []
+      },
+      "Wagi sklepowe i magazynowe": [],
+      "Wózki transportowe": []
+    },
+    "Medycyna i kosmetologia": {
+      "Gabinety kosmetyczne i fryzjerskie": {
+        "Łóżka do masażu": [],
+        "Meble do salonów fryzjerskich i kosmetycznych": [],
+        "Solaria i sauny": [],
+        "Sprzęt do salonów fryzjerskich i kosmetycznych": []
+      },
+      "Gabinety medyczne": {
+        "Drobne akcesoria medyczne": [],
+        "Meble i wyposażenie gabinetów medycznych": [],
+        "Sprzęt medyczny": [],
+        "Sprzęt ratunkowy i szkoleniowy": []
+      }
+    },
+    "Monitoring": {
+      "Akcesoria do monitoringu": [],
+      "Kamery przemysłowe": [],
+      "Kontrola dostępu": [],
+      "Monitory przemysłowe": [],
+      "Rejestratory przemysłowe": [],
+      "Zestawy do monitoringu": []
+    },
+    "Przestrzeń publiczna": {
+      "Symbole narodowe i flagi": [],
+      "Wyposażenie miejsc publicznych": []
+    },
+    "Reklama i poligrafia": {
+      "Akcesoria i gadżety reklamowe": [],
+      "Tablice potykacze i stojaki reklamowe": [],
+      "Telebimy monitory i panele LED": [],
+      "Usługi poligraficzne": []
+    },
+    "Rolnictwo": {
+      "Akcesoria i części rolnicze": [],
+      "Hodowla zwierząt": [],
+      "Urządzenia rolnicze": []
+    },
+    "Sprzęt detektywistyczny": {
+      "Mikrokamery dyktafony i inne rejestratory": [],
+      "Podsłuchy": [],
+      "Pozostały sprzęt detektywistyczny": [],
+      "Wykrywacze podsłuchów i kamer": []
+    },
+    "Szkolnictwo i edukacja": {
+      "Kursy i szkolenia": [],
+      "Mapy ścienne": [],
+      "Pomoce naukowe": [],
+      "Tablice i flipcharty": [],
+      "Wyposażenie szkół i przedszkoli": []
+    },
+    "Szycie przemysłowe i zdobienie tekstyliów": {
+      "Akcesoria szwalnicze i tekstylia": [],
+      "Urządzenia szwalnicze i do zdobienia tekstyliów": []
+    },
+    "Utrzymanie czystości": {
+      "Akcesoria do utrzymania czystości": [],
+      "Dozowniki papieru i mydła": [],
+      "Kosze i kontenery na śmieci": [],
+      "Suszarki do rąk": [],
+      "Urządzenia sprzątające": [],
+      "Wózki do sprzątania": []
+    }
+  },
+  "Biżuteria i zegarki": {
+    "Biżuteria dla kobiet": {
+      "Bransoletki": [],
+      "Broszki": [],
+      "Charmsy": [],
+      "Chokery": [],
+      "Kolczyki": [],
+      "Komplety": [],
+      "Łańcuszki": [],
+      "Naszyjniki": [],
+      "Nausznice": [],
+      "Obrączki ślubne": [],
+      "Pierścionki": [],
+      "Pozostała biżuteria": [],
+      "Wisiorki": []
+    },
+    "Biżuteria dla mężczyzn": {
+      "Bransolety dla mężczyzn": [],
+      "Kolczyki dla mężczyzn": [],
+      "Łańcuszki dla mężczyzn": [],
+      "Naszyjniki dla mężczyzn": [],
+      "Pozostała biżuteria dla mężczyzn": [],
+      "Spinki do krawatów": [],
+      "Spinki do mankietów": [],
+      "Sygnety i obrączki": [],
+      "Wisiorki dla mężczyzn": [],
+      "Zestawy spinek dla mężczyzn": []
+    },
+    "Bodypiercing": [],
+    "Dewocjonalia": [],
+    "Zegarki": []
+  },
+  "Budowa i remont": {
+    "Armatura i hydraulika": {
+      "Armatura do kuchni": {
+        "Baterie kuchenne": [],
+        "Dozowniki kuchenne": [],
+        "Filtry nakranowe i podzlewozmywakowe": [],
+        "Koszyki do zlewozmywaków": [],
+        "Wkładki ociekowe": [],
+        "Zlewozmywaki": [],
+        "Zlewozmywaki z baterią": [],
+        "Zlewy i komory gospodarcze": []
+      },
+      "Baterie łazienkowe i akcesoria": {
+        "Baterie łazienkowe": [],
+        "Stelaże i elementy podtynkowe baterii": [],
+        "Wylewki": []
+      },
+      "Hydraulika": {
+        "Akcesoria do hydrauliki": [],
+        "Doprowadzenie wody i kanalizacja": [],
+        "Syfony": [],
+        "Wodomierze": [],
+        "Zawory": [],
+        "Zestawy odpływowe": []
+      },
+      "Pozostała armatura": [],
+      "Prysznic i akcesoria": {
+        "Akcesoria prysznicowe": [],
+        "Brodziki": [],
+        "Deszczownice głowice i dysze": [],
+        "Drzwi prysznicowe": [],
+        "Kabiny prysznicowe": [],
+        "Kabiny z hydromasażem": [],
+        "Nogi i stelaże do brodzików": [],
+        "Obudowy do brodzików": [],
+        "Panele prysznicowe": [],
+        "Słuchawki prysznicowe": [],
+        "Ścianki boczne i profile": [],
+        "Węże prysznicowe": [],
+        "Zestawy prysznicowe": []
+      },
+      "Toaleta i akcesoria": {
+        "Bidety": [],
+        "Deski sedesowe i pokrywy": [],
+        "Kompakty WC": [],
+        "Miski WC": [],
+        "Pisuary": [],
+        "Przyciski spłukujące": [],
+        "Spłuczki": [],
+        "Stelaże podtynkowe do toalety": [],
+        "Urządzenia WC z funkcją higieny": [],
+        "Zestawy podtynkowe": []
+      },
+      "Umywalki i akcesoria": {
+        "Postumenty i półpostumenty": [],
+        "Stelaże podtynkowe do umywalek": [],
+        "Umywalki": []
+      },
+      "Wanny i akcesoria": {
+        "Akcesoria wannowe": [],
+        "Nogi i stelaże do wanien": [],
+        "Obudowy do wanien": [],
+        "Parawany nawannowe": [],
+        "Wanny": [],
+        "Wanny z hydromasażem": []
+      }
+    },
+    "Bramy i garaże": {
+      "Akcesoria do bram": [],
+      "Bramy garażowe": [],
+      "Bramy wjazdowe": [],
+      "Garaże i wiaty": [],
+      "Napędy do bram": []
+    },
+    "Dachy i rynny": {
+      "Akcesoria dekarskie": [],
+      "Kominki wentylacyjne": [],
+      "Pokrycia dachowe": [],
+      "Pozostałe elementy dachu": [],
+      "Rynny": []
+    },
+    "Drzwi okna i schody": {
+      "Drzwi": {
+        "Drzwi składane i przesuwne": [],
+        "Drzwi wewnętrzne": [],
+        "Drzwi zewnętrzne": [],
+        "Klamki i gałki": [],
+        "Kłódki": [],
+        "Ościeżnice": [],
+        "Pozostałe akcesoria do drzwi": [],
+        "Zamki i wkładki": []
+      },
+      "Markizy": [],
+      "Okna i parapety": {
+        "Akcesoria do okien": [],
+        "Kołnierze do okien": [],
+        "Okna dachowe": [],
+        "Okna i drzwi balkonowe": [],
+        "Okna ścienne": [],
+        "Parapety": []
+      },
+      "Rolety zewnętrzne": [],
+      "Schody i akcesoria": {
+        "Akcesoria do schodów": [],
+        "Balustrady": [],
+        "Schody strychowe": [],
+        "Schody wewnętrzne": [],
+        "Schody zewnętrzne": []
+      }
+    },
+    "Elektryka i akcesoria elektryczne": {
+      "Domofony i videodomofony": {
+        "Akcesoria do domofonów": [],
+        "Domofony": [],
+        "Monitory i kamery do videofonów": [],
+        "Unifony": [],
+        "Videofony": []
+      },
+      "Gniazda elektryczne": [],
+      "Klawisze i ramki": [],
+      "Pozostałe akcesoria elektryczne": [],
+      "Przedłużacze": [],
+      "Przewody i kable": [],
+      "Puszki": [],
+      "Rozdzielnie": [],
+      "Skrzynki budowlane": [],
+      "Sterowanie roletami": [],
+      "Systemy alarmowe": {
+        "Akcesoria alarmowe": [],
+        "Centrale alarmowe": [],
+        "Czujniki ruchu i fotokomórki": [],
+        "Detektory": [],
+        "Dzwonki i akcesoria": [],
+        "Zestawy alarmowe": []
+      },
+      "Systemy domotyki": [],
+      "Ściemniacze i wyłączniki": [],
+      "Zabezpieczenia": [],
+      "Zasilacze": []
+    },
+    "Klimatyzacja i wentylacja": {
+      "Akcesoria do klimatyzacji i wentylacji": [],
+      "Centrale rekuperacyjne": [],
+      "Klimatyzatory": [],
+      "Kurtyny powietrzne": [],
+      "Materiały montażowe": [],
+      "Systemy kominowe": [],
+      "Uzdatniacze powietrza": [],
+      "Wentylatory": {
+        "Pozostałe wentylatory": [],
+        "Wentylatory łazienkowe": []
+      }
+    },
+    "Materiały budowlane": {
+      "Cement": [],
+      "Fugi": [],
+      "Kleje": [],
+      "Masy asfaltowe": [],
+      "Materiały konstrukcyjne": [],
+      "Ocieplenie i izolacja": [],
+      "Pozostałe materiały budowlane": [],
+      "Silikony i pianki": [],
+      "Techniki mocowań": [],
+      "Tynki": [],
+      "Zaprawy": []
+    },
+    "Materiały wykończeniowe": {
+      "Akcesoria do wykończenia podłogi": [],
+      "Akcesoria do wykończenia ścian": [],
+      "Akcesoria malarskie": {
+        "Folie malarskie": [],
+        "Kratki i kuwety malarskie": [],
+        "Pędzle malarskie": [],
+        "Pozostałe akcesoria malarskie": [],
+        "Wałki malarskie": []
+      },
+      "Deski podłogowe": [],
+      "Farby": [],
+      "Impregnaty i grunty": [],
+      "Lakiery": [],
+      "Listwy przypodłogowe": [],
+      "Panele podłogowe": [],
+      "Parkiety": [],
+      "Pigmenty": [],
+      "Płytki": [],
+      "Podkłady pod panele": [],
+      "Sztukateria": [],
+      "Tapety i fototapety": []
+    },
+    "Narzędzia i warsztat": {
+      "Elektronarzędzia": {
+        "Akcesoria do elektronarzędzi": {
+          "Bity": "",
+          "Brzeszczoty": "",
+          "Frezy": "",
+          "Ładowarki akumulatory i zasilacze": "",
+          "Nasadki do elektronarzędzi": "",
+          "Noże do elektronarzędzi": "",
+          "Otwornice": "",
+          "Papiery i tarcze szlifierskie": "",
+          "Pozostałe akcesoria do elektronarzędzi": "",
+          "Tarcze diamentowe": "",
+          "Tarcze tnące": "",
+          "Tuleje": "",
+          "Uchwyty do elektronarzędzi": "",
+          "Wiertła": ""
+        },
+        "Bruzdownice": [],
+        "Frezarki i strugi": [],
+        "Mieszadła": [],
+        "Młoty udarowe": [],
+        "Nożyce do blachy i rozdzieraki": [],
+        "Opalarki": [],
+        "Piły elektryczne": [],
+        "Pistolety do klejenia": [],
+        "Pozostałe elektronarzędzia": [],
+        "Szlifierki i polerki": [],
+        "Tokarki": [],
+        "Wiertarki": [],
+        "Wiertarko-wkrętarki": [],
+        "Wkrętarki": [],
+        "Wyrzynarki": [],
+        "Zakrętarki": []
+      },
+      "Meble i wyposażenie warsztatu": {
+        "Drabiny i rusztowania": [],
+        "Lampy warsztatowe": [],
+        "Oleje smary i akcesoria": [],
+        "Pozostałe wyposażenie warsztatowe": [],
+        "Regały i szafki warsztatowe": [],
+        "Skrzynki i torby narzędziowe": [],
+        "Stoły warsztatowe": [],
+        "Wózki narzędziowe": []
+      },
+      "Narzędzia pneumatyczne": {
+        "Akcesoria do narzędzi pneumatycznych": [],
+        "Klucze pneumatyczne": [],
+        "Pistolety do malowania": [],
+        "Pozostałe narzędzia pneumatyczne": [],
+        "Sprężarki i kompresory": []
+      },
+      "Narzędzia pomiarowe": {
+        "Akcesoria do narzędzi pomiarowych": [],
+        "Dalmierze i drogomierze": [],
+        "Kątowniki i kątomierze": [],
+        "Mierniki uniwersalne": [],
+        "Mikrometry": [],
+        "Niwelatory": [],
+        "Poziomice": [],
+        "Pozostałe narzędzia pomiarowe": [],
+        "Suwmiarki": [],
+        "Tachimetry": [],
+        "Taśmy miernicze": [],
+        "Wagi": [],
+        "Wykrywacze": []
+      },
+      "Narzędzia ręczne": {
+        "Akcesoria do narzędzi ręcznych": [],
+        "Imadła": [],
+        "Klucze i nasadki": [],
+        "Maszyny do cięcia i gilotyny": [],
+        "Młotki": [],
+        "Narzędzia murarskie": [],
+        "Noże i nożyce ręczne": [],
+        "Pilniki i dłuta": [],
+        "Piły ręczne i brzeszczoty": [],
+        "Pozostałe narzędzia ręczne": [],
+        "Szczypce kombinerki i cęgi": [],
+        "Ściski i klamry": [],
+        "Śrubokręty": [],
+        "Urządzenia dźwigowe": [],
+        "Zestawy narzędziowe": [],
+        "Zszywacze i takery ręczne": []
+      },
+      "Narzędzia spalinowe": {
+        "Akcesoria do narzędzi spalinowych": [],
+        "Generatory prądu": [],
+        "Piły spalinowe": [],
+        "Pozostałe narzędzia spalinowe": [],
+        "Zagęszczarki i stopy": []
+      },
+      "Pozostałe narzędzia": [],
+      "Spawanie i lutowanie": {
+        "Akcesoria do spawania i lutowania": [],
+        "Lutownice": [],
+        "Materiały spawalnicze": [],
+        "Spawarki": [],
+        "Zgrzewarki": []
+      }
+    },
+    "Ogrzewanie": {
+      "Akcesoria grzewcze": [],
+      "Głowice termostatyczne": [],
+      "Grzejniki": {
+        "Grzejniki łazienkowe": [],
+        "Grzejniki pokojowe": [],
+        "Piece akumulacyjne": [],
+        "Pozostałe grzejniki": []
+      },
+      "Kominki i akcesoria": {
+        "Akcesoria kominkowe": {
+          "Elementy kominków i pieców": "",
+          "Kosze na drewno": "",
+          "Kratki kominkowe": "",
+          "Odkurzacze do popiołu": "",
+          "Pozostałe akcesoria kominkowe": "",
+          "Przewody i kanały": "",
+          "Zestawy kominkowe": ""
+        },
+        "Kominki": {
+          "Biokominki": "",
+          "Kominki elektryczne": "",
+          "Kuchnie węglowe": "",
+          "Piece wolnostojące": "",
+          "Wkłady kominkowe": ""
+        }
+      },
+      "Kotły": [],
+      "Materiały opałowe": [],
+      "Nagrzewnice": [],
+      "Ogrzewanie podłogowe": [],
+      "Ogrzewanie przenośne": [],
+      "Podgrzewacze wody": {
+        "Pojemnościowe podgrzewacze wody": [],
+        "Przepływowe podgrzewacze wody": []
+      },
+      "Pompy ciepła": [],
+      "Pompy obiegowe i cyrkulacyjne": [],
+      "Regulatory i sterowniki": [],
+      "Systemy solarne": {
+        "Kolektory słoneczne": [],
+        "Pakiety solarne": []
+      },
+      "Zasobniki i wymienniki": [],
+      "Zestawy grzewcze": []
+    },
+    "Projekty budowlane": {
+      "Projekty budynków rolniczych": [],
+      "Projekty budynków usługowych": [],
+      "Projekty domów": [],
+      "Projekty garaży i budynków gospodarczych": []
+    },
+    "Sauny": [],
+    "Usługi remontowe i budowlane": {
+      "Remonty i wykończenia": []
+    }
+  },
+  "Delikatesy": {
+    "Alkohol": {
+      "Piwo": [],
+      "Wina i szampany": []
+    },
+    "Dania gotowe": [],
+    "Grzyby": [],
+    "Kawa herbata i kakao": {
+      "Herbata": [],
+      "Kakao i czekolada do picia": [],
+      "Kapsułki do ekspresów": [],
+      "Kawa": [],
+      "Yerba mate i zestawy": []
+    },
+    "Kosze prezentowe i upominki": [],
+    "Kuchnie świata": [],
+    "Mięso i wędliny": [],
+    "Miód i pyłek pszczeli": [],
+    "Nabiał": {
+      "Jajka": [],
+      "Jogurty kefiry i desery mleczne": [],
+      "Masło i margaryna": [],
+      "Mleko i śmietana": [],
+      "Sery": []
+    },
+    "Napoje wody i soki": {
+      "Napoje": [],
+      "Soki syropy i nektary": [],
+      "Wody mineralne": []
+    },
+    "Oliwy i oleje": [],
+    "Pieczywo": [],
+    "Pozostałe artykuły spożywcze": [],
+    "Produkty sypkie": {
+      "Cukier i słodziki": [],
+      "Kasza i ryż": [],
+      "Makarony": [],
+      "Mąka i mieszanki chlebowe": [],
+      "Płatki musli i otręby": [],
+      "Pozostałe produkty sypkie": []
+    },
+    "Przyprawy i sosy": {
+      "Mieszanki przyprawowe": [],
+      "Octy": [],
+      "Panierki": [],
+      "Pozostałe przyprawy i sosy": [],
+      "Przyprawy jednoskładnikowe": [],
+      "Sosy i koncentraty": [],
+      "Sól i pieprz": []
+    },
+    "Ryby i owoce morza": [],
+    "Słodycze desery i przekąski": {
+      "Batoniki": [],
+      "Ciasta desery i dodatki do ciast": {
+        "Bakalie": [],
+        "Budynie kisiele i galaretki": [],
+        "Ciasta i dodatki do ciast": []
+      },
+      "Ciastka": [],
+      "Cukierki lizaki i żelki": [],
+      "Czekolady i bombonierki": [],
+      "Gumy do żucia": [],
+      "Pozostałe słodycze": [],
+      "Przekąski słone": []
+    },
+    "Warzywa owoce i przetwory": {
+      "Dżemy i powidła": [],
+      "Ketchupy majonezy i musztardy": [],
+      "Owoce i warzywa": [],
+      "Przetwory owocowe": [],
+      "Przetwory warzywne": []
+    },
+    "Zdrowa żywność": []
+  },
+  "Dla dziecka": {
+    "Artykuły szkolne": {
+      "Piórniki": [],
+      "Przybory i akcesoria szkolne": {
+        "Szkolne artykuły papiernicze": [],
+        "Szkolne artykuły plastyczne": [],
+        "Szkolne przybory do pisania": []
+      },
+      "Tornistry plecaki i torby szkolne": {
+        "Plecaki i tornistry na kółkach": [],
+        "Plecaki przedszkolne": [],
+        "Plecaki szkolne": [],
+        "Torby na ramię": [],
+        "Tornistry": [],
+        "Worki na buty": [],
+        "Zestawy szkolne": []
+      }
+    },
+    "Ciąża i karmienie piersią": {
+      "Akcesoria dla mamy": {
+        "Adaptery do pasów": [],
+        "Majtki poporodowe": [],
+        "Osłonki na piersi": [],
+        "Pasy ciążowe": [],
+        "Podkłady higieniczne": [],
+        "Poduszki do spania i karmienia": [],
+        "Pojemniki na pokarm": [],
+        "Pozostałe akcesoria dla mamy": [],
+        "Wkładki laktacyjne i muszle": []
+      },
+      "Laktatory": []
+    },
+    "Karmienie dziecka": {
+      "Butelki i akcesoria": {
+        "Akcesoria do butelek": [],
+        "Butelki": [],
+        "Smoczki i ustniki do butelek": []
+      },
+      "Krzesełka do karmienia": [],
+      "Naczynia i sztućce dla dzieci": [],
+      "Podgrzewacze i sterylizatory": [],
+      "Pozostałe akcesoria do karmienia dzieci": [],
+      "Śliniaki i fartuszki": [],
+      "Żywność dla dzieci": {
+        "Dania dla dzieci": [],
+        "Deserki dla dzieci": [],
+        "Herbatki i soki dla dzieci": [],
+        "Kaszki dla dzieci": [],
+        "Mleka modyfikowane": {
+          "Mleka następne": "",
+          "Mleka początkowe": ""
+        },
+        "Pozostała żywność dla dzieci": []
+      }
+    },
+    "Pielęgnacja i zdrowie dziecka": {
+      "Artykuły medyczne dla dzieci": {
+        "Aspiratory i gruszki do nosa": [],
+        "Termometry dla dzieci": [],
+        "Wagi dla niemowląt": []
+      },
+      "Komody kąpielowe wanienki i przewijaki": [],
+      "Kosmetyki dla dzieci i niemowląt": [],
+      "Nianie elektroniczne i monitory oddechu": [],
+      "Nocniki nakładki na WC i podesty": [],
+      "Pieluchy": [],
+      "Pozostałe akcesoria do pielęgnacji dzieci": [],
+      "Ręczniki i okrycia kąpielowe": [],
+      "Smoczki i akcesoria": {
+        "Pojemniki na smoczki": [],
+        "Smoczki uspokajające": [],
+        "Zawieszki do smoczków": []
+      },
+      "Zabezpieczenie mebli drzwi i elektryki": {
+        "Bramki": [],
+        "Zabezpieczenia mebli i elektryki": []
+      }
+    },
+    "Podróż i spacer z dzieckiem": {
+      "Akcesoria samochodowe dla dzieci": [],
+      "Foteliki samochodowe": [],
+      "Nosidełka i chusty": [],
+      "Pozostałe akcesoria na podróż i spacer z dzieckiem": [],
+      "Torby i przyborniki na akcesoria dla dzieci": [],
+      "Wózki dziecięce i akcesoria": {
+        "Akcesoria do wózków": [],
+        "Wózki dla bliźniaków": [],
+        "Wózki głębokie": [],
+        "Wózki spacerowe": [],
+        "Wózki wielofunkcyjne": []
+      }
+    },
+    "Pokoik dziecięcy": {
+      "Dywaniki dziecięce": [],
+      "Dziecięce akcesoria dekoracyjne": [],
+      "Firany zasłony i rolety dziecięce": [],
+      "Koce i narzuty dziecięce": [],
+      "Meble dziecięce i akcesoria": {
+        "Akcesoria do mebli dziecięcych": [],
+        "Biurka dziecięce": [],
+        "Fotele i pufy dziecięce": [],
+        "Komody dziecięce": [],
+        "Krzesła dziecięce": [],
+        "Lampki dziecięce": [],
+        "Łóżeczka dziecięce": [],
+        "Materace dziecięce": [],
+        "Pozostałe meble dziecięce": [],
+        "Regały i półki dziecięce": [],
+        "Skrzynie i pojemniki na zabawki": [],
+        "Szafy dziecięce": [],
+        "Zestawy mebli dziecięcych": []
+      },
+      "Pościel dla dzieci": {
+        "Gniazda i kokony": [],
+        "Kołdry i poduszki dla dzieci": [],
+        "Komplety pościeli dla dzieci": [],
+        "Ochraniacze do łóżeczka": [],
+        "Poszwy i poszewki dla dzieci": [],
+        "Prześcieradła dla dzieci": [],
+        "Przyborniki do łóżeczka": [],
+        "Rożki i beciki": [],
+        "Śpiworki": []
+      },
+      "Pozostałe wyposażenie pokoju dziecięcego": [],
+      "Ramki odlewy i albumy dziecięce": []
+    },
+    "Rowerki i zabawki ogrodowe": {
+      "Akcesoria do zabawek ogrodowych": [],
+      "Bańki mydlane": [],
+      "Baseny dla dzieci": [],
+      "Domki i namioty dla dzieci": [],
+      "Piaskownice i zabawki do piasku": {
+        "Piaskownice": [],
+        "Stoliki wodne": [],
+        "Zabawki do piasku": []
+      },
+      "Piłki dla dzieci": [],
+      "Place zabaw": [],
+      "Pozostałe zabawki ogrodowe": [],
+      "Rowerki i inne pojazdy dla dzieci": {
+        "Gokarty dla dzieci": [],
+        "Hulajnogi dla dzieci": [],
+        "Jeepy i quady": [],
+        "Jeździki": [],
+        "Motorki i skutery": [],
+        "Pozostałe pojazdy dla dzieci": [],
+        "Rowerki biegowe": [],
+        "Rowerki tradycyjne": [],
+        "Rowerki trójkołowe": [],
+        "Samochody dla dzieci": [],
+        "Traktory dla dzieci": []
+      },
+      "Zabawki i gry sportowe": [],
+      "Zabawki wodne": [],
+      "Zjeżdżalnie": []
+    },
+    "Zabawa niemowląt": {
+      "Chodziki": [],
+      "Grzechotki i gryzaki": [],
+      "Kojce": [],
+      "Leżaczki bujaki i huśtawki niemowlęce": [],
+      "Maty edukacyjne": [],
+      "Pozostałe zabawki dla niemowląt": [],
+      "Zabawki do wózka łóżeczka i fotelika": [],
+      "Zabawki edukacyjne dla niemowląt": []
+    },
+    "Zabawki": {
+      "Auta i inne pojazdy do zabawy": [],
+      "Bujaki i zabawki na biegunach": [],
+      "Figurki makiety i zestawy": [],
+      "Gry": [],
+      "Kąciki zabaw": [],
+      "Klocki": [],
+      "Kolejki": [],
+      "Kucyki": [],
+      "Lalki i akcesoria": {
+        "Akcesoria dla lalek": [],
+        "Domki dla lalek": [],
+        "Lalki": [],
+        "Wózki dla lalek": []
+      },
+      "Maskotki": [],
+      "Parkingi garaże i tory wyścigowe": [],
+      "Pozostałe zabawki": [],
+      "Puzzle": [],
+      "Zabawki do kąpieli": [],
+      "Zabawki edukacyjne": {
+        "Mali naukowcy": [],
+        "Pozostałe zabawki edukacyjne": [],
+        "Zabawki interaktywne": [],
+        "Zabawki muzyczne": [],
+        "Zabawki plastyczne": []
+      },
+      "Zabawki ekologiczne": [],
+      "Zabawki militarne": [],
+      "Zabawki zdalnie sterowane": []
+    }
+  },
+  "Dom i wnętrze": {
+    "Dekoracja domu": {
+      "Ceramika i szkło ozdobne": [],
+      "Figurki dekoracyjne": [],
+      "Globusy": [],
+      "Naklejki i szablony": [],
+      "Obrazy i plakaty": [],
+      "Ozdoby świąteczne": [],
+      "Pozostałe dekoracje i ozdoby": [],
+      "Szkatułki i puzderka": [],
+      "Sztuczne kwiaty": [],
+      "Świece i aromaterapia": {
+        "Kadzidła i podstawki": [],
+        "Olejki zapachowe": [],
+        "Świeczki i świeczniki": []
+      },
+      "Wazony": []
+    },
+    "Meble": {
+      "Akcesoria do mebli": [],
+      "Kuchnia i jadalnia": {
+        "Blaty kuchenne": [],
+        "Hokery i stołki barowe": [],
+        "Krzesła": [],
+        "Pozostałe meble kuchenne": [],
+        "Stoły": [],
+        "Stoły z krzesłami": [],
+        "Szafki kuchenne": [],
+        "Taborety i stołki": [],
+        "Zestawy mebli do kuchni i jadalni": []
+      },
+      "Lustra": [],
+      "Łazienka": {
+        "Blaty pod umywalkę": [],
+        "Pozostałe meble łazienkowe": [],
+        "Szafki i regały podumywalkowe": [],
+        "Szafki stojące": [],
+        "Szafki wiszące": [],
+        "Szafki z umywalkami": [],
+        "Zestawy mebli łazienkowych": []
+      },
+      "Przedpokój": {
+        "Garderoby do przedpokoju": [],
+        "Ławki": [],
+        "Pozostałe meble do przedpokoju": [],
+        "Szafki na buty": []
+      },
+      "Salon": {
+        "Barki": [],
+        "Fotele": [],
+        "Komody": [],
+        "Komplety wypoczynkowe": [],
+        "Konsole i sekretarzyki": [],
+        "Ławy i stoliki": [],
+        "Meblościanki i zestawy mebli do salonu": [],
+        "Narożniki": [],
+        "Pozostałe meble do salonu": [],
+        "Półki": [],
+        "Pufy i podnóżki": [],
+        "Regały": [],
+        "Sofy i kanapy": [],
+        "Szafki": [],
+        "Szafki RTV": [],
+        "Witryny": []
+      },
+      "Sypialnia": {
+        "Łóżka": [],
+        "Materace": [],
+        "Pozostałe meble do sypialni": [],
+        "Przechowywanie pościeli": [],
+        "Stelaże do łóżek": [],
+        "Szafki nocne": [],
+        "Szafy": [],
+        "Toaletki": [],
+        "Zagłówki": [],
+        "Zestawy mebli do sypialni": []
+      }
+    },
+    "Oświetlenie": {
+      "Akcesoria do oświetlenia": {
+        "Klosze i abażury": [],
+        "Pozostałe akcesoria do oświetlenia": [],
+        "Transformatory i zasilacze do oświetlenia": []
+      },
+      "Lampy podłogowe": [],
+      "Lampy stołowe": [],
+      "Lampy sufitowe": [],
+      "Lampy ścienne": [],
+      "Oprawy oświetleniowe": [],
+      "Oświetlenie meblowe i taśmy LED": [],
+      "Pozostałe oświetlenie": [],
+      "Systemy oświetleniowe": [],
+      "Wentylatory sufitowe": [],
+      "Żarówki i świetlówki": []
+    },
+    "Praktyczne dodatki do domu": {
+      "Akcesoria do butów": [],
+      "Gazetniki": [],
+      "Parasolniki": [],
+      "Parawany i przesłony": [],
+      "Pudła pojemniki i kosze": [],
+      "Stojaki i wieszaki na ubrania": [],
+      "Zegary": []
+    },
+    "Przed domem i mieszkaniem": {
+      "Daszki i zadaszenia": [],
+      "Numery i szyldy na dom": [],
+      "Skrzynki na listy i gazety": [],
+      "Wycieraczki": []
+    },
+    "Sprzątanie domu": {
+      "Chemia gospodarcza": [],
+      "Kosze na śmieci": [],
+      "Odświeżacze powietrza": [],
+      "Pochłaniacze wilgoci i wkłady": [],
+      "Pranie": {
+        "Chusteczki do prania": [],
+        "Farby i barwniki do tkanin": [],
+        "Kapsułki i tabletki do prania": [],
+        "Klamerki linki i koszyczki": [],
+        "Krochmal": [],
+        "Kule do prania": [],
+        "Odplamiacze": [],
+        "Orzechy do prania": [],
+        "Perełki zapachowe": [],
+        "Płyny do płukania": [],
+        "Płyny do prania": [],
+        "Proszki do prania": [],
+        "Suszarki na pranie": [],
+        "Środki do czyszczenia pralki": [],
+        "Wybielacze": [],
+        "Żele do prania": []
+      },
+      "Prasowanie": {
+        "Deski do prasowania": [],
+        "Pokrowce na deski do prasowania": [],
+        "Środki do prasowania": []
+      },
+      "Selektory odpadków": [],
+      "Sprzątanie ręczne": [],
+      "Worki i opakowania próżniowe": [],
+      "Zmywanie": {
+        "Czyściki do zmywarki": [],
+        "Gąbki do naczyń": [],
+        "Nabłyszczacze do zmywarki": [],
+        "Płyny do naczyń": [],
+        "Proszki do zmywarki": [],
+        "Sole do zmywarki": [],
+        "Tabletki do zmywarki": [],
+        "Zapachy do zmywarki": [],
+        "Zmywaki i druciaki do naczyń": [],
+        "Żele do zmywarki": []
+      }
+    },
+    "Tekstylia do domu": {
+      "Dywany i wykładziny dywanowe": [],
+      "Fartuchy i rękawice kuchenne": [],
+      "Koce i narzuty": [],
+      "Kołdry i poduszki": [],
+      "Obrusy serwetki i bieżniki": [],
+      "Pokrowce i ochraniacze na materac": [],
+      "Pokrowce na meble": [],
+      "Pościel": {
+        "Komplety pościeli": [],
+        "Poszewki": [],
+        "Poszwy": [],
+        "Prześcieradła": []
+      },
+      "Pozostałe tekstylia do domu": [],
+      "Ręczniki": [],
+      "Ściereczki kuchenne": [],
+      "Wystrój okien": {
+        "Akcesoria do wystroju okien": [],
+        "Firany": [],
+        "Folie okienne": [],
+        "Karnisze": [],
+        "Moskitiery": [],
+        "Rolety": [],
+        "Zasłony": [],
+        "Żaluzje": []
+      }
+    },
+    "Wyposażenie kuchni": {
+      "Akcesoria do alkoholu": {
+        "Chłodzenie alkoholu": [],
+        "Korkociągi i otwieracze": [],
+        "Piersiówki": [],
+        "Pozostałe akcesoria do alkoholu": [],
+        "Shakery": [],
+        "Skrzynki na alkohol": [],
+        "Stojaki na alkohol": [],
+        "Zatyczki i nalewaki do butelek": [],
+        "Zestawy do wina": []
+      },
+      "Akcesoria kuchenne": {
+        "Cedzaki i sitka": [],
+        "Chlebaki": [],
+        "Deski kuchenne": [],
+        "Dozowniki do octu i oliwy": [],
+        "Dziadki do orzechów": [],
+        "Maselniczki": [],
+        "Minutniki": [],
+        "Młynki do przypraw": [],
+        "Obieraczki": [],
+        "Pojemniki hermetyczne": [],
+        "Pozostałe akcesoria kuchenne": [],
+        "Siekacze tarki i szatkownice": [],
+        "Słoiki i pojemniki na żywność": [],
+        "Solniczki pieprzniczki i przyprawniki": [],
+        "Suszarki i ociekacze": [],
+        "Tace i patery": [],
+        "Zestawy do sushi": []
+      },
+      "Dekoracja stołu": [],
+      "Garnki i patelnie": {
+        "Brytfanny": [],
+        "Czajniki": [],
+        "Fondue": [],
+        "Garnki": [],
+        "Patelnie": [],
+        "Pokrywki": [],
+        "Rondle": [],
+        "Szybkowary": [],
+        "Woki": [],
+        "Zestawy garnków i patelni": []
+      },
+      "Naczynia kuchenne": {
+        "Bulionówki": [],
+        "Dzbanki": [],
+        "Karafki": [],
+        "Kieliszki": [],
+        "Kubki": [],
+        "Miski": [],
+        "Naczynia do kawy i herbaty": {
+          "Cukiernice i mleczniki": "",
+          "Dzbanki i imbryki": "",
+          "Filiżanki": "",
+          "Podgrzewacze": "",
+          "Pozostałe akcesoria do kawy i herbaty": "",
+          "Serwisy do kawy i herbaty": "",
+          "Zaparzacze i kawiarki": ""
+        },
+        "Pozostałe naczynia kuchenne": [],
+        "Półmiski": [],
+        "Salaterki": [],
+        "Serwisy obiadowe": [],
+        "Sosjerki": [],
+        "Szklanki": [],
+        "Talerze": [],
+        "Wazy": []
+      },
+      "Przybory do gotowania i pieczenia": {
+        "Chochle i łyżki": [],
+        "Foremki do czekoladek": [],
+        "Formy do pieczenia": [],
+        "Łopatki i szpatułki": [],
+        "Naczynia żaroodporne": [],
+        "Noże kuchenne": [],
+        "Podstawki pod garnki": [],
+        "Pozostałe przybory do gotowania i pieczenia": [],
+        "Szczypce kuchenne": [],
+        "Tłuczki": [],
+        "Trzepaczki": []
+      },
+      "Sztućce": {
+        "Akcesoria do sztućców": [],
+        "Łyżeczki": [],
+        "Łyżki": [],
+        "Noże stołowe": [],
+        "Ostrzałki do noży": [],
+        "Pozostałe sztućce": [],
+        "Widelce": [],
+        "Zestawy sztućców": []
+      }
+    },
+    "Wyposażenie łazienki": {
+      "Dozowniki do mydła": [],
+      "Kosze i pojemniki na pranie": [],
+      "Kubki i szklanki łazienkowe": [],
+      "Maty i dywaniki łazienkowe": [],
+      "Mydelniczki": [],
+      "Pojemniki na waciki i chusteczki": [],
+      "Pozostałe akcesoria łazienkowe": [],
+      "Półki łazienkowe": [],
+      "Szczotki do toalet": [],
+      "Uchwyty i stojaki na papier toaletowy": [],
+      "Wieszaki i uchwyty łazienkowe": [],
+      "Zasłony prysznicowe": [],
+      "Zestawy akcesoriów łazienkowych": []
+    }
+  },
+  "Filmy": {
+    "Filmy 3D": [],
+    "Filmy Blu-ray": [],
+    "Filmy DVD": [],
+    "Filmy na innych nośnikach": [],
+    "Gadżety filmowe": [],
+    "Pakiety filmowe": [],
+    "Seriale": []
+  },
+  "Fotografia": {
+    "Aparaty fotograficzne": {
+      "Aparaty analogowe": [],
+      "Aparaty cyfrowe": [],
+      "Aparaty cyfrowe z wymienną optyką": [],
+      "Lustrzanki cyfrowe": []
+    },
+    "Drobne akcesoria fotograficzne": {
+      "Akcesoria do filtrów": [],
+      "Akcesoria do lamp błyskowych": [],
+      "Akcesoria do statywów i głowic": [],
+      "Akcesoria do wizjera i LCD": [],
+      "Dekielki i zaślepki": [],
+      "Fotografia podwodna": [],
+      "Konwertery": [],
+      "Osłony na obiektywy": [],
+      "Piloty transmitery i wężyki spustowe": [],
+      "Pozostałe akcesoria fotograficzne": [],
+      "Przejściówki i adaptery": [],
+      "Środki czystości do optyki": []
+    },
+    "Drony i akcesoria": {
+      "Części i moduły do dronów": [],
+      "Drony": [],
+      "Kamery do dronów": [],
+      "Ładowarki i akumulatory do dronów": [],
+      "Plecaki i walizki do dronów": []
+    },
+    "Filtry fotograficzne": {
+      "Filtry": [],
+      "Filtry prostokątne": []
+    },
+    "Futerały plecaki i torby fotograficzne": [],
+    "Karty pamięci": [],
+    "Lampy błyskowe": [],
+    "Obiektywy": [],
+    "Ramki i albumy do zdjęć": {
+      "Albumy na zdjęcia": [],
+      "Ramki cyfrowe": [],
+      "Ramki tradycyjne": []
+    },
+    "Sprzęt optyczny": {
+      "Akcesoria do optyki": [],
+      "Lornetki": [],
+      "Lunety obserwacyjne": [],
+      "Lupy i mikroskopy": [],
+      "Teleskopy": []
+    },
+    "Sprzęt studyjny": [],
+    "Statywy i głowice": {
+      "Głowice do statywów": [],
+      "Statywy": []
+    },
+    "Usługi fotograficzne": [],
+    "Zasilanie": {
+      "Akumulatory dedykowane": [],
+      "Akumulatory i baterie uniwersalne": [],
+      "Gripy i batterypacki": [],
+      "Ładowarki i zasilacze": []
+    }
+  },
+  "Gry": {
+    "Akcesoria i kontrolery do gier": {
+      "Akumulatory i ładowarki do konsol i kontrolerów": [],
+      "Fotele dla graczy": [],
+      "Gamepady": [],
+      "Joysticki": [],
+      "Kierownice": [],
+      "Okulary VR": [],
+      "Panele pokrowce i etui na konsole": [],
+      "Pozostałe akcesoria i kontrolery do gier": []
+    },
+    "Gadżety dla graczy": [],
+    "Gry bez prądu": {
+      "Akcesoria do gier": [],
+      "Gry dziecięce": [],
+      "Gry fabularne RPG": [],
+      "Gry figurkowe i bitewne": [],
+      "Gry hazardowe": [],
+      "Gry karciane": [],
+      "Gry planszowe": [],
+      "Łamigłówki": []
+    },
+    "Gry komputerowe": {
+      "Gry do pobrania na PC": [],
+      "Gry PC": []
+    },
+    "Gry konsolowe": {
+      "Gry Nintendo": {
+        "Gry do pobrania na Nintendo": [],
+        "Gry GameBoy Advance": [],
+        "Gry GameCube": [],
+        "Gry New Nintendo 3DS": [],
+        "Gry Nintendo 3DS": [],
+        "Gry Nintendo DS": [],
+        "Gry Nintendo Switch": [],
+        "Gry Nintendo Wii": [],
+        "Gry Nintendo Wii U": []
+      },
+      "Gry PlayStation": {
+        "Gry do pobrania na Playstation 3": [],
+        "Gry do pobrania na Playstation 4": [],
+        "Gry PlayStation 2": [],
+        "Gry PlayStation 3": [],
+        "Gry PlayStation 4": [],
+        "Gry PlayStation Portable": [],
+        "Gry PlayStation Vita": []
+      },
+      "Gry Xbox": {
+        "Gry do pobrania na Xbox 360": [],
+        "Gry do pobrania na Xbox One": [],
+        "Gry Xbox 360": [],
+        "Gry Xbox One": []
+      }
+    },
+    "Kody i karty pre-paid": [],
+    "Konsole do gier": []
+  },
+  "Handmade": {
+    "Akcesoria": {
+      "Nakrycia głowy": {
+        "Czapki": []
+      },
+      "Pozostałe akcesoria": [],
+      "Szale i kominy": []
+    },
+    "Biżuteria": {
+      "Bransoletki": [],
+      "Broszki": [],
+      "Kolczyki": [],
+      "Medaliony": [],
+      "Naszyjniki": [],
+      "Pierścionki": [],
+      "Zawieszki i wisiorki": [],
+      "Zegarki na rękę": []
+    },
+    "Dla dziecka": {
+      "Akcesoria dla dzieci": {
+        "Czapeczki": [],
+        "Ozdoby do włosów dla dzieci": []
+      },
+      "Akcesoria dla mam": [],
+      "Pokoik dziecięcy": {
+        "Lampki dla dzieci": [],
+        "Mebelki": [],
+        "Ozdoby do pokoju dziecięcego": [],
+        "Poduszki i kocyki": [],
+        "Pościel dziecięca": []
+      },
+      "Przybory do jedzenia i picia": [],
+      "Przybory szkolne": [],
+      "Ubranka": {
+        "Bluzeczki i t-shirty": [],
+        "Spodnie i spodenki dziecięce": [],
+        "Spódniczki i sukienki": []
+      },
+      "Zabawki": {
+        "Autka": [],
+        "Domki i łóżeczka dla lalek": [],
+        "Koniki na biegunach": [],
+        "Pozostałe zabawki": [],
+        "Zabawki dla niemowląt": []
+      }
+    },
+    "Dla mężczyzny": {
+      "Akcesoria dla mężczyzn": {
+        "Biżuteria męska": [],
+        "Krawaty i muchy": [],
+        "Paski męskie": [],
+        "Portfele męskie": []
+      },
+      "Bluzy męskie": [],
+      "Koszule męskie": [],
+      "Kurtki i płaszcze męskie": [],
+      "Swetry i golfy": [],
+      "Torby męskie": [],
+      "T-shirty i koszulki męskie": []
+    },
+    "Dom i styl życia": {
+      "Dodatki do domu": {
+        "Artykuły papiernicze": [],
+        "Dekoracja stołu": [],
+        "Pozostałe dekoracje": [],
+        "Świece i świeczniki": [],
+        "Wazony": []
+      },
+      "Kuchnia": {
+        "Akcesoria do gotowania": [],
+        "Chlebaki": [],
+        "Kubki i filiżanki": [],
+        "Podkładki i serwetki": [],
+        "Tace": []
+      },
+      "Lampy": {
+        "Abażury i klosze": [],
+        "Lampy stołowe": [],
+        "Lampy sufitowe": [],
+        "Lampy ścienne": []
+      },
+      "Łazienka": {
+        "Akcesoria łazienkowe": [],
+        "Pudełka na chusteczki": []
+      },
+      "Meble": {
+        "Biurka": [],
+        "Fotele i pufy": [],
+        "Komody": [],
+        "Ławy i stoliki kawowe": [],
+        "Półki": [],
+        "Szafki nocne": [],
+        "Wieszaki": []
+      },
+      "Pamiątki": [],
+      "Tekstylia": {
+        "Kołdry i narzuty": [],
+        "Poduszki": [],
+        "Poszewki": [],
+        "Pościel": [],
+        "Serwetki, obrusy i bieżniki": []
+      },
+      "Zabawki i kolekcje": {
+        "Figurki": [],
+        "Lalki kolekcjonerskie": [],
+        "Misie": [],
+        "Zwierzęta": []
+      },
+      "Zwierzęta domowe": {
+        "Kot": {
+          "Legowiska dla kotów": "",
+          "Zabawki dla kotów": ""
+        },
+        "Pies": {
+          "Legowiska dla psów": "",
+          "Pozostałe akcesoria dla psów": ""
+        }
+      }
+    },
+    "Materiały": [],
+    "Moda": {
+      "Bluzki": {
+        "Longsleeve": [],
+        "Topy": [],
+        "T-shirty": []
+      },
+      "Bluzy": [],
+      "Koszule": [],
+      "Kurtki i płaszcze": [],
+      "Marynarki i żakiety": [],
+      "Spodenki": [],
+      "Spodnie": [],
+      "Spódnice": [],
+      "Sukienki": [],
+      "Swetry": [],
+      "Tuniki": []
+    },
+    "Sztuka": {
+      "Fotografia": [],
+      "Malarstwo": [],
+      "Mozaiki": [],
+      "Plakaty": [],
+      "Rysunki": [],
+      "Rzeźba": []
+    },
+    "Torby": {
+      "Etui i pokrowce": [],
+      "Torby na laptopa i tablet": [],
+      "Torby na zakupy": [],
+      "Torebki": []
+    }
+  },
+  "Hobby i zwierzęta": {
+    "Akcesoria imprezowe": {
+      "Dekoracje": [],
+      "Fajerwerki": [],
+      "Kartki okolicznościowe i zaproszenia": [],
+      "Ozdobne dodatki": [],
+      "Stroje karnawałowe": [],
+      "Zastawa stołowa": []
+    },
+    "Artykuły dla plastyków": {
+      "Akcesoria kreślarskie": [],
+      "Akcesoria rzeźbiarskie": [],
+      "Farby i media malarskie": [],
+      "Kredki ołówki pastele i pisaki": [],
+      "Malowanie po numerach": [],
+      "Pędzle": [],
+      "Podobrazia bloki i papiery": [],
+      "Pozostałe akcesoria dla plastyków": [],
+      "Ramy i sztalugi": []
+    },
+    "Artykuły zoologiczne": {
+      "Akwarystyka": {
+        "Akwaria i zestawy akwarystyczne": [],
+        "Chemia akwariowa": [],
+        "Filtry akwariowe i akcesoria": {
+          "Akcesoria do filtrów akwariowych": "",
+          "Filtry akwariowe": ""
+        },
+        "Grzałki akwariowe": [],
+        "Napowietrzanie akwarium": [],
+        "Ozdoby akwariowe": [],
+        "Podłoża": [],
+        "Pokarm dla ryb akwariowych": [],
+        "Pokrywy akwariowe i akcesoria oświetleniowe": [],
+        "Pozostałe akcesoria akwarystyczne": [],
+        "Szafki pod akwarium": []
+      },
+      "Małe zwierzęta": {
+        "Akcesoria dla małych zwierząt": [],
+        "Klatki dla małych zwierząt": [],
+        "Pokarm i przysmaki dla małych zwierząt": []
+      },
+      "Pozostałe akcesoria dla zwierząt": [],
+      "Ptaki": {
+        "Akcesoria dla ptaków": [],
+        "Karmniki i budki lęgowe": [],
+        "Klatki dla ptaków": [],
+        "Pokarm dla ptaków": []
+      },
+      "Terrarystyka": {
+        "Ogrzewanie i oświetlenie terrarium": [],
+        "Podłoża i ozdoby do terrarium": [],
+        "Pokarm dla zwierząt terrarystycznych": [],
+        "Pozostałe akcesoria terrarystyczne": [],
+        "Terraria": []
+      },
+      "Transportery i torby dla zwierząt": []
+    },
+    "Gadżety": [],
+    "Karmy i akcesoria dla kotów": {
+      "Budki i legowiska dla kotów": [],
+      "Drapaki dla kotów": [],
+      "Karmy dla kotów": [],
+      "Kuwety dla kotów": [],
+      "Pozostałe akcesoria dla kotów": [],
+      "Zabawki dla kotów": [],
+      "Żwirki i piaski dla kotów": []
+    },
+    "Karmy i akcesoria dla psów": {
+      "Budy dla psów": [],
+      "Grzebienie i szczotki dla psów": [],
+      "Higiena psów": [],
+      "Kagańce dla psów": [],
+      "Karmy dla psów": [],
+      "Klatki i kojce dla psów": [],
+      "Legowiska dla psów": [],
+      "Maszynki i trymery dla psów": [],
+      "Miski dla psów": [],
+      "Obroże dla psów": [],
+      "Odżywki i witaminy dla psów": [],
+      "Pozostałe akcesoria dla psów": [],
+      "Smycze dla psów": [],
+      "Szampony i odżywki dla psów": [],
+      "Szelki dla psów": [],
+      "Ubrania i buty dla psów": [],
+      "Zabawki dla psów": []
+    },
+    "Kolekcjonerstwo": {
+      "Akcesoria dla kolekcjonerów": [],
+      "Figurki kolekcjonerskie": [],
+      "Modelarstwo": {
+        "Akcesoria i części modelarskie": [],
+        "Kolejki i akcesoria": {
+          "Akcesoria do kolejek": "",
+          "Kolejki i zestawy": ""
+        },
+        "Kolekcjonerskie modele pojazdów": [],
+        "Modele do sklejania": [],
+        "Modele zdalnie sterowane": [],
+        "Pozostałe modele": []
+      },
+      "Numizmatyka": [],
+      "Trafika": {
+        "Akcesoria do cygar": [],
+        "Akcesoria do papierosów": [],
+        "Cygara": [],
+        "Cygaretki": [],
+        "Fajki i akcesoria": {
+          "Akcesoria do fajek": "",
+          "Fajki": ""
+        },
+        "Popielniczki": [],
+        "Szisze fajki wodne i akcesoria": {
+          "Akcesoria do fajek wodnych": "",
+          "Szisze i fajki wodne": ""
+        },
+        "Tabaki": [],
+        "Tytonie": [],
+        "Zapalniczki": []
+      }
+    },
+    "Militaria i strzelectwo": {
+      "Air Soft Gun ASG": {
+        "Akcesoria ASG": [],
+        "Karabinki i pistolety ASG": []
+      },
+      "Akcesoria do samoobrony": [],
+      "Akcesoria ochronne": [],
+      "Broń biała": {
+        "Akcesoria do broni białej": [],
+        "Miecze i szable": [],
+        "Pozostała broń biała": [],
+        "Tarcze i kulochwyty": [],
+        "Topory i maczety": []
+      },
+      "Łuki, proce i akcesoria": [],
+      "Militaria kolekcjonerskie": [],
+      "Noże i akcesoria": [],
+      "Odzież i obuwie taktyczne": [],
+      "Repliki broni": [],
+      "Strzelectwo": {
+        "Akcesoria do broni palnej": {
+          "Amunicja": "",
+          "Kabury i pasy nośne": "",
+          "Konserwacja broni": "",
+          "Optyka do broni": "",
+          "Pozostałe akcesoria do broni palnej": ""
+        },
+        "Broń palna": [],
+        "Wiatrówki i akcesoria": []
+      },
+      "Survival": []
+    },
+    "Prezenty-przeżycia i atrakcje": [],
+    "Rękodzieło": {
+      "Akcesoria do wyrobu biżuterii": {
+        "Kamienie szlachetne i ozdobne": [],
+        "Koraliki": {
+          "Cekiny": "",
+          "Koraliki plastikowe i fimo": "",
+          "Koraliki Swarovski": "",
+          "Koraliki szklane": "",
+          "Pozostałe koraliki": ""
+        },
+        "Narzędzia jubilerskie": [],
+        "Opakowania jubilerskie": [],
+        "Półfabrykaty jubilerskie": [],
+        "Żyłki linki i gumki jubilerskie": []
+      },
+      "Decoupage": [],
+      "Dekoratorstwo": [],
+      "Pasmanteria": {
+        "Akcesoria krawieckie": [],
+        "Dodatki krawieckie": [],
+        "Materiały włókiennicze": [],
+        "Pozostałe artykuły krawieckie": [],
+        "Włóczki": []
+      },
+      "Pozostałe rękodzieło": [],
+      "Scrapbooking": []
+    },
+    "Wędkarstwo i łowiectwo": {
+      "Akcesoria i odzież myśliwska": [],
+      "Wędkarstwo": {
+        "Odzież i obuwie wędkarskie": {
+          "Odzież wędkarska": "",
+          "Wodery i spodniobuty wędkarskie": ""
+        },
+        "Sprzęt wędkarski": {
+          "Haczyki i kotwice": "",
+          "Kołowrotki": "",
+          "Pozostały sprzęt wędkarski": "",
+          "Przynęty": "",
+          "Przypony": "",
+          "Spławiki": "",
+          "Wędki": "",
+          "Zanęty i akcesoria": "",
+          "Żyłki plecionki i sznury": ""
+        },
+        "Wyposażenie wędkarza": []
+      }
+    },
+    "Wróżbiarstwo": [],
+    "Wykrywacze metali i akcesoria": {
+      "Akcesoria do wykrywaczy metali": [],
+      "Wykrywacze metali": []
+    },
+    "Wyrób trunków i nalewek": []
+  },
+  "Komputery": {
+    "Akcesoria komputerowe": {
+      "Adaptery bluetooth": [],
+      "Akcesoria do monitorów": [],
+      "Chłodzenie i tuning": {
+        "Akcesoria do chłodzenia wodnego": [],
+        "Chłodzenie procesora": [],
+        "Chłodzenie wodne": [],
+        "Elementy oświetleniowe do komputerów": [],
+        "Panele i kontrolery obrotów": [],
+        "Pasty i materiały termoprzewodzące": [],
+        "Pozostałe akcesoria do chłodzenia": [],
+        "Wentylatory komputerowe": []
+      },
+      "Głośniki multimedialne": [],
+      "Huby USB": [],
+      "Kable i taśmy": [],
+      "Kamery internetowe": [],
+      "Klawiatury": [],
+      "Mikrofony komputerowe": [],
+      "Mikrokontrolery": [],
+      "Myszy i trackballe": [],
+      "Podkładki pod myszki i klawiatury": [],
+      "Pozostałe akcesoria komputerowe": [],
+      "Słuchawki komputerowe": [],
+      "Środki czyszczące do sprzętu komputerowego": [],
+      "Tablety graficzne": []
+    },
+    "Drukarki i skanery": {
+      "Akcesoria do drukarek i skanerów": [],
+      "Drukarki": {
+        "Druk 3D": {
+          "Części do drukarek 3D": "",
+          "Drukarki 3D": "",
+          "Filamenty": "",
+          "Pisaki 3D": ""
+        },
+        "Drukarki atramentowe": [],
+        "Drukarki laserowe": [],
+        "Drukarki termosublimacyjne i żelowe": [],
+        "Pozostałe drukarki": []
+      },
+      "Materiały eksploatacyjne do drukarek": {
+        "Papier fotograficzny": [],
+        "Tonery i bębny": {
+          "Tonery oryginalne": "",
+          "Tonery zamienniki": ""
+        },
+        "Tusze": {
+          "Tusze oryginalne": "",
+          "Tusze zamienniki": ""
+        }
+      },
+      "Skanery": [],
+      "Urządzenia wielofunkcyjne": {
+        "Urządzenia wielofunkcyjne atramentowe": [],
+        "Urządzenia wielofunkcyjne laserowe": []
+      }
+    },
+    "Gaming": [],
+    "Gwarancje i pakiety serwisowe": [],
+    "Laptopy i komputery": {
+      "Akcesoria do laptopów": {
+        "Baterie do laptopów": [],
+        "Gadżety na USB": [],
+        "Podstawki i stoliki pod laptopy": [],
+        "Podzespoły do laptopów": [],
+        "Pozostałe akcesoria do laptopów": [],
+        "Stacje dokujące do laptopów": [],
+        "Torby do laptopów": [],
+        "Zasilacze do laptopów": []
+      },
+      "Komputery All-in-one": [],
+      "Komputery stacjonarne": [],
+      "Laptopy": [],
+      "Nettopy": []
+    },
+    "Monitory": [],
+    "Obudowa i zasilanie": {
+      "Baterie do zasilaczy awaryjnych UPS": [],
+      "Listwy zasilające": [],
+      "Obudowy komputerowe": [],
+      "Pozostałe elementy obudowy i zasilania": [],
+      "Zasilacze awaryjne UPS": [],
+      "Zasilacze do obudów": []
+    },
+    "Oprogramowanie": {
+      "Edytory grafiki i video": [],
+      "Eset Security": [],
+      "Hobby i rozrywka": [],
+      "Kaspersky Lab": [],
+      "Kursy multimedialne": [],
+      "McAfee Intel Security": [],
+      "Microsoft Office": [],
+      "Microsoft Windows": [],
+      "Norton by Symantec": [],
+      "Pozostałe oprogramowanie": [],
+      "Programowanie": [],
+      "Programy antywirusowe i zabezpieczające": [],
+      "Programy biurowe": [],
+      "Programy do nauki języków": [],
+      "Programy edukacyjne": [],
+      "Programy muzyczne": [],
+      "Programy narzędziowe": [],
+      "Programy serwerowe": [],
+      "Systemy operacyjne": [],
+      "Translatory i słowniki": [],
+      "Zarządzanie firmą": []
+    },
+    "Podzespoły komputerowe": {
+      "Barebone": [],
+      "Dyski": {
+        "Dyski NAS": [],
+        "Dyski SSD": [],
+        "Dyski twarde": [],
+        "Dyski zewnętrzne": []
+      },
+      "Karty graficzne": [],
+      "Karty muzyczne": [],
+      "Karty video": [],
+      "Kontrolery": [],
+      "Napędy optyczne": [],
+      "Pamięci RAM": [],
+      "Płyty główne": [],
+      "Procesory": [],
+      "Tunery TV i FM": []
+    },
+    "Przechowywanie danych": {
+      "Akcesoria do przechowywania danych": [],
+      "Czytniki kart Flash": [],
+      "Dyski przenośne": [],
+      "Nośniki danych": [],
+      "Obudowy kieszenie i adaptery HDD": [],
+      "PenDrive": [],
+      "Pozostałe nośniki i napędy": []
+    },
+    "Serwery i urządzenia sieciowe": {
+      "Access Point": [],
+      "Akcesoria do urządzeń sieciowych": [],
+      "Anteny Wi-Fi": [],
+      "Elementy montażowe": [],
+      "Firewalle sprzętowe": [],
+      "Kamery IP": [],
+      "Karty sieciowe": [],
+      "Konwertery sieciowe": [],
+      "Modemy": [],
+      "Narzędzia sieciowe": [],
+      "Power Line Communication PLC": [],
+      "Pozostałe urządzenia sieciowe": [],
+      "Przełączniki KVM": [],
+      "Routery": [],
+      "Serwery i podzespoły": {
+        "Akcesoria do serwerów": [],
+        "Dyski serwerowe": [],
+        "Macierze dyskowe": [],
+        "Obudowy serwerowe": [],
+        "Płyty i platformy serwerowe": [],
+        "Procesory serwerowe": [],
+        "Serwery": [],
+        "Streamery": [],
+        "Zasilacze do obudów serwerowych": []
+      },
+      "Serwery wydruku": [],
+      "Switche i huby": [],
+      "Szafy i obudowy": []
+    },
+    "Tablety i czytniki e-book": {
+      "Akcesoria do sprzętu mobilnego": {
+        "Akcesoria do palmtopów": [],
+        "Akcesoria do tabletów": [],
+        "Etui do tabletów": [],
+        "Pokrowce na czytniki e-book": [],
+        "Stacje dokujące do tabletów": []
+      },
+      "Czytniki e-book": [],
+      "Tablety PC": []
+    },
+    "Usługi internetowe": []
+  },
+  "Księgarnia": {
+    "Audiobooki": [],
+    "E-booki": {
+      "E-Beletrystyka": [],
+      "E-biografie i dzienniki": [],
+      "E-czasopisma": [],
+      "E-encyklopedie i leksykony": [],
+      "E-historia i literatura faktu": [],
+      "E-informatyka": [],
+      "E-komiksy": [],
+      "E-literatura podróżnicza i przewodniki": [],
+      "E-nauka języków obcych": [],
+      "E-podręczniki akademickie": [],
+      "E-podręczniki szkolne": [],
+      "E-poradniki": [],
+      "Pozostałe E-booki": []
+    },
+    "Książki": {
+      "Albumy": [],
+      "Beletrystyka": {
+        "Fantastyka i fantasy": [],
+        "Literatura dla dzieci i młodzieży": [],
+        "Literatura sensacyjna i grozy": [],
+        "Powieści i opowiadania": [],
+        "Romanse": []
+      },
+      "Biografie i dzienniki": [],
+      "Encyklopedie i leksykony": [],
+      "Historia i literatura faktu": [],
+      "Informatyka": [],
+      "Komiksy": [],
+      "Literatura obcojęzyczna": [],
+      "Literatura podróżnicza i przewodniki": [],
+      "Literatura popularnonaukowa": [],
+      "Nauka języków obcych": {
+        "Język angielski": [],
+        "Język francuski": [],
+        "Język hiszpański": [],
+        "Język niemiecki": [],
+        "Język rosyjski": [],
+        "Język włoski": [],
+        "Pozostałe języki": []
+      },
+      "Podręczniki akademickie": {
+        "Ekonomia i biznes": [],
+        "Nauki humanistyczne i społeczne": [],
+        "Nauki medyczne": [],
+        "Nauki przyrodnicze i matematyczne": [],
+        "Nauki rolnicze": [],
+        "Nauki techniczne": [],
+        "Politologia": [],
+        "Pozostałe podręczniki akademickie": [],
+        "Prawo i administracja": [],
+        "Sztuka": []
+      },
+      "Podręczniki szkolne": [],
+      "Poezja": [],
+      "Poradniki": {
+        "Hobby, rozrywka": [],
+        "Kulinaria": [],
+        "Parapsychologia i ezoteryka": [],
+        "Poradniki psychologiczne": [],
+        "Pozostałe poradniki": [],
+        "Rośliny i zwierzęta": [],
+        "Samochody i motocykle": [],
+        "Sport": [],
+        "Wnętrza i ogrody": [],
+        "Zdrowie i diety": []
+      },
+      "Pozostałe książki": [],
+      "Religia": []
+    },
+    "Prasa i kalendarze": {
+      "Gazety i czasopisma": [],
+      "Kalendarze": []
+    }
+  },
+  "Moda": {
+    "Dla Dzieci": {
+      "Akcesoria dziecięce": {
+        "Czapki dziecięce": [],
+        "Okulary przeciwsłoneczne dziecięce": [],
+        "Pozostałe akcesoria dziecięce": [],
+        "Rękawiczki dziecięce": [],
+        "Szaliki dziecięce": []
+      },
+      "Bielizna dziecięca": [],
+      "Buty dziecięce": {
+        "Balerinki dziecięce": [],
+        "Buciki niemowlęce": [],
+        "Buty profilaktyczne": [],
+        "Buty sportowe": [],
+        "Buty trekkingowe dziecięce": [],
+        "Buty zimowe dziecięce": [],
+        "Kalosze dziecięce": [],
+        "Kapcie dziecięce": [],
+        "Klapki dziecięce": [],
+        "Półbuty dziecięce": [],
+        "Sandały dziecięce": [],
+        "Trampki dziecięce": []
+      },
+      "Odzież dziecięca": {
+        "Bluzki i koszulki dziecięce": [],
+        "Bluzy i swetry dziecięce": [],
+        "Dresy dziecięce": [],
+        "Kamizelki dziecięce": [],
+        "Kombinezony dziecięce": [],
+        "Komplety dziecięce": [],
+        "Koszule dziecięce": [],
+        "Kurtki i płaszcze dziecięce": [],
+        "Spodnie dziecięce": [],
+        "Spódnice dziecięce": [],
+        "Sukienki dziecięce": []
+      },
+      "Ubranka niemowlęce": []
+    },
+    "Dla Kobiety": {
+      "Akcesoria damskie": {
+        "Akcesoria ślubne": [],
+        "Apaszki i szaliki": [],
+        "Czapki damskie": [],
+        "Okulary przeciwsłoneczne damskie": [],
+        "Parasole": [],
+        "Paski damskie": [],
+        "Portfele damskie": [],
+        "Rękawiczki damskie": []
+      },
+      "Bielizna damska": {
+        "Bielizna modelująca": [],
+        "Biustonosze": [],
+        "Body": [],
+        "Dodatki do biustonoszy": [],
+        "Gorsety": [],
+        "Komplety bielizny": [],
+        "Majtki": [],
+        "Opaski na oczy": [],
+        "Pidżamy damskie": [],
+        "Podkoszulki i halki": [],
+        "Pończochy pasy i podwiązki": [],
+        "Rajstopy": [],
+        "Skarpetki i podkolanówki": [],
+        "Stroje kąpielowe": [],
+        "Szlafroki damskie": []
+      },
+      "Bluzki damskie": [],
+      "Bluzy damskie": [],
+      "Buty damskie": {
+        "Baleriny": [],
+        "Botki": [],
+        "Buty sportowe damskie": [],
+        "Buty trekkingowe damskie": [],
+        "Czółenka": [],
+        "Espadryle damskie": [],
+        "Kalosze damskie": [],
+        "Kapcie damskie": [],
+        "Klapki damskie": [],
+        "Kozaki": [],
+        "Lordsy": [],
+        "Mokasyny damskie": [],
+        "Półbuty damskie": [],
+        "Sandały damskie": [],
+        "Śniegowce damskie": [],
+        "Tenisówki i trampki damskie": []
+      },
+      "Dresy damskie": [],
+      "Jeansy damskie": [],
+      "Kombinezony": [],
+      "Koszule damskie": [],
+      "Kurtki i płaszcze damskie": {
+        "Kamizelki damskie": [],
+        "Kurtki damskie": [],
+        "Płaszcze damskie": []
+      },
+      "Legginsy": [],
+      "Marynarki i żakiety": [],
+      "Odzież i bielizna ciążowa": {
+        "Bielizna ciążowa": [],
+        "Bluzki i tuniki ciążowe": [],
+        "Bluzy i swetry ciążowe": [],
+        "Okrycia wierzchnie ciążowe": [],
+        "Spodnie ciążowe": [],
+        "Sukienki i spódnice ciążowe": []
+      },
+      "Spodenki damskie": [],
+      "Spodnie damskie": [],
+      "Spódnice": [],
+      "Sukienki": [],
+      "Swetry damskie": [],
+      "Torebki damskie": []
+    },
+    "Dla Mężczyzny": {
+      "Akcesoria męskie": {
+        "Czapki męskie": [],
+        "Okulary przeciwsłoneczne męskie": [],
+        "Parasole męskie": [],
+        "Paski męskie": [],
+        "Portfele męskie": [],
+        "Rękawiczki męskie": [],
+        "Szaliki męskie": [],
+        "Szelki": []
+      },
+      "Bielizna męska": {
+        "Bokserki i szorty": [],
+        "Kalesony": [],
+        "Kąpielówki": [],
+        "Pidżamy męskie": [],
+        "Podkoszulki męskie": [],
+        "Skarpety męskie": [],
+        "Slipy i stringi": [],
+        "Szlafroki męskie": []
+      },
+      "Buty męskie": {
+        "Buty sportowe męskie": [],
+        "Buty trekkingowe męskie": [],
+        "Buty zimowe": [],
+        "Espadryle męskie": [],
+        "Kalosze męskie": [],
+        "Kapcie męskie": [],
+        "Klapki męskie": [],
+        "Mokasyny męskie": [],
+        "Półbuty męskie": [],
+        "Sandały męskie": [],
+        "Sztyblety męskie": [],
+        "Trampki męskie": []
+      },
+      "Odzież męska": {
+        "Bluzy męskie": [],
+        "Dresy męskie": [],
+        "Garnitury": [],
+        "Jeansy męskie": [],
+        "Kamizelki": [],
+        "Koszule": [],
+        "Krawaty i muchy": [],
+        "Kurtki i płaszcze męskie": {
+          "Kurtki męskie": "",
+          "Płaszcze męskie": ""
+        },
+        "Marynarki": [],
+        "Spodenki męskie": [],
+        "Spodnie męskie": [],
+        "Swetry i golfy": [],
+        "T-shirty i koszulki męskie": []
+      },
+      "Torby i saszetki męskie": []
+    },
+    "Torby i walizki": []
+  },
+  "Muzyka": {
+    "Gadżety muzyczne": {
+      "Odzież muzyczna": [],
+      "Pozostałe gadżety muzyczne": []
+    },
+    "Instrumenty muzyczne": {
+      "Gitary i akcesoria": {
+        "Akcesoria do gitar": {
+          "Efekty gitarowe": "",
+          "Futerały i pokrowce na gitary": "",
+          "Kostki do gitar": "",
+          "Pozostałe akcesoria do gitar": "",
+          "Struny": ""
+        },
+        "Gitary": [],
+        "Wzmacniacze do gitar": []
+      },
+      "Instrumenty dęte i akcesoria": {
+        "Akcesoria do instrumentów dętych": [],
+        "Instrumenty dęte": []
+      },
+      "Instrumenty klawiszowe i akcesoria": {
+        "Akcesoria do instrumentów klawiszowych": [],
+        "Instrumenty klawiszowe": []
+      },
+      "Instrumenty perkusyjne i akcesoria": {
+        "Akcesoria do instrumentów perkusyjnych": [],
+        "Instrumenty perkusyjne": []
+      },
+      "Instrumenty smyczkowe i akcesoria": {
+        "Akcesoria do instrumentów smyczkowych": [],
+        "Instrumenty smyczkowe": []
+      }
+    },
+    "Płyty muzyczne": {
+      "Kolekcje i zestawy płyt": [],
+      "Koncerty i dvd muzyczne": [],
+      "Płyty kompaktowe": [],
+      "Płyty winylowe": []
+    },
+    "Sprzęt estradowy studyjny i DJ": {
+      "Akcesoria estradowe i studyjne": [],
+      "Kolumny i głośniki estradowe": [],
+      "Mikrofony i akcesoria": {
+        "Akcesoria do mikrofonów": [],
+        "Mikrofony": []
+      },
+      "Miksery i powermiksery": [],
+      "Oświetlenie i efekty estradowe": {
+        "Akcesoria do oświetlenia estradowego": [],
+        "Sprzęt oświetleniowy": [],
+        "Wytwornice efektów": []
+      },
+      "Pozostały sprzęt estradowy i studyjny": [],
+      "Sprzęt DJ": {
+        "Miksery DJ": [],
+        "Odtwarzacze DJ": [],
+        "Pozostały sprzęt DJ": []
+      }
+    }
+  },
+  "Ogród": {
+    "Baseny i chemia basenowa": {
+      "Baseny i brodziki ogrodowe": [],
+      "Chemia i akcesoria basenowe": []
+    },
+    "Dekoracje i architektura ogrodowa": {
+      "Dekoracja ogrodu": [],
+      "Furtki": [],
+      "Ogrodzenia balustrady i płoty": {
+        "Akcesoria ogrodzeniowe": [],
+        "Ogrodzenia i płoty": [],
+        "Siatki ogrodzeniowe": []
+      },
+      "Pawilony altanki i domki": [],
+      "Szklarnie i tunele foliowe": []
+    },
+    "Grille ogrodowe i akcesoria": {
+      "Akcesoria do grilla": [],
+      "Grille ogrodowe": {
+        "Grille elektryczne": [],
+        "Grille gazowe": [],
+        "Grille węglowe": [],
+        "Kociołki": [],
+        "Paleniska ogrodowe": [],
+        "Wędzarnie": []
+      }
+    },
+    "Meble ogrodowe i akcesoria": {
+      "Akcesoria do mebli ogrodowych": [],
+      "Barki i stoliki ogrodowe": [],
+      "Hamaki": [],
+      "Huśtawki ogrodowe": [],
+      "Krzesła ogrodowe": [],
+      "Leżaki i fotele ogrodowe": [],
+      "Ławki ogrodowe": [],
+      "Parasole ogrodowe": [],
+      "Poduszki ogrodowe": [],
+      "Pozostałe meble ogrodowe": [],
+      "Stoły ogrodowe": [],
+      "Zestawy mebli ogrodowych": []
+    },
+    "Narzędzia ogrodowe": {
+      "Myjki wysokociśnieniowe i akcesoria": {
+        "Akcesoria do myjek": [],
+        "Myjki wysokociśnieniowe": []
+      },
+      "Narzędzia mechaniczne do ogrodu": {
+        "Aeratory i wertykulatory": [],
+        "Akcesoria i części do narzędzi mechanicznych": [],
+        "Dmuchawy i odkurzacze do liści": [],
+        "Glebogryzarki": [],
+        "Kosiarki do trawy": [],
+        "Łuparki do drewna": [],
+        "Nożyce ogrodnicze": [],
+        "Odśnieżarki": [],
+        "Ogrodowe urządzenia wielofunkcyjne": [],
+        "Piły łańcuchowe": [],
+        "Podkaszarki": [],
+        "Pozostałe narzędzia mechaniczne do ogrodu": [],
+        "Rozdrabniarki do gałęzi": [],
+        "Traktory i kosiarki samojezdne": []
+      },
+      "Narzędzia ręczne do ogrodu": {
+        "Grabie i motyki": [],
+        "Kosiarki ręczne": [],
+        "Łopaty szpadle i widły": [],
+        "Nożyce i sekatory": [],
+        "Opryskiwacze": [],
+        "Pozostałe narzędzia ręczne do ogrodu": [],
+        "Siekiery": [],
+        "Siewniki": [],
+        "Taczki i wózki ogrodowe": []
+      }
+    },
+    "Oświetlenie zewnętrzne i ogrodowe": [],
+    "Rośliny i kwiaty": {
+      "Akcesoria do sadzenia i pielęgnacji roślin": [],
+      "Donice i osłonki": [],
+      "Folie i agrowłókniny": [],
+      "Kompostowniki": [],
+      "Kwiaciarnia": {
+        "Akcesoria florystyczne": [],
+        "Kompozycje kwiatowe": [],
+        "Znicze i wkłady": []
+      },
+      "Kwietniki": [],
+      "Nawozy": [],
+      "Rośliny": {
+        "Cebulki byliny i kłącza": [],
+        "Drzewka i krzewy": {
+          "Drzewka i krzewy owocowe": "",
+          "Drzewka i krzewy ozdobne": ""
+        },
+        "Kwiaty i rośliny ogrodowe i balkonowe": [],
+        "Kwiaty i rośliny pokojowe": [],
+        "Nasiona": [],
+        "Pozostałe rośliny i nasiona": [],
+        "Trawy i trawniki": []
+      },
+      "Środki ochrony roślin": [],
+      "Zwalczanie i odstraszanie szkodników": []
+    },
+    "Technika wodna": {
+      "Fontanny": [],
+      "Konewki": [],
+      "Nawadnianie ogrodu": [],
+      "Oczka wodne i akcesoria": [],
+      "Pompy i akcesoria": {
+        "Akcesoria do pomp": [],
+        "Pompy i hydrofory": []
+      },
+      "Pozostałe akcesoria wodne": [],
+      "Węże i zraszacze": []
+    }
+  },
+  "Outlet": {
+    "AGD": {
+      "Duże AGD": [],
+      "Małe AGD": []
+    },
+    "Dom": [],
+    "Elektronika": {
+      "Sprzęt fotograficzny": [],
+      "Sprzęt komputerowy": []
+    },
+    "Moda i uroda": [],
+    "Multimedia": [],
+    "Pozostałe wyprzedaże": [],
+    "Rekreacja": [],
+    "RTV": {
+      "Sprzęt audio": [],
+      "Sprzęt video": []
+    },
+    "Telefony": []
+  },
+  "Prezenty": {
+    "Baby shower": [],
+    "Chrzest": [],
+    "Dzień Babci i Dziadka": [],
+    "Dzień Dziecka": [],
+    "Dzień Kobiet": [],
+    "Dzień Matki": [],
+    "Dzień Mężczyzny": [],
+    "Dzień Ojca": [],
+    "Gwiazdka i Mikołaj": [],
+    "Komunia": [],
+    "Parapetówka": [],
+    "Rocznica związku": [],
+    "Ślub": [],
+    "Urodziny": [],
+    "Walentynki": [],
+    "Wieczór Panieński/Kawalerski": [],
+    "Wielkanoc": []
+  },
+  "Sklepy zagraniczne": {
+    "AGD": {
+      "Duże AGD": {
+        "Lodówki i zamrażarki": [],
+        "Pralki i suszarki": []
+      },
+      "Małe AGD": {
+        "Akcesoria do sprzętu AGD": [],
+        "Odkurzacze": [],
+        "Pozostałe małe AGD": [],
+        "Żelazka i generatory pary": []
+      }
+    },
+    "Dom i ogród": {
+      "Akcesoria do ogrodu": [],
+      "Akcesoria domowe": [],
+      "Gotowanie": [],
+      "Hobby": [],
+      "Lampy domowe i ogrodowe": [],
+      "Meble do ogrodu": [],
+      "Meble domowe": [],
+      "Naczynia i sztućce": [],
+      "Narzędzia do domu": [],
+      "Narzędzia do ogrodu": [],
+      "Turystyka": []
+    },
+    "Elektronika": {
+      "Drony i części": [],
+      "Fotografia i wideo": {
+        "Akcesoria foto": [],
+        "Akcesoria wideo": [],
+        "Aparaty fotograficzne": [],
+        "Kamery wideo": []
+      },
+      "Gadżety elektroniczne": [],
+      "Komputery": {
+        "Akcesoria komputerowe": [],
+        "Klawiatury komputerowe": [],
+        "Komputery PC": [],
+        "Laptopy i akcesoria": [],
+        "Myszy komputerowe": [],
+        "Słuchawki komputerowe": [],
+        "Tablety i akcesoria": []
+      }
+    },
+    "Mama i dziecko": [],
+    "Moda i biżuteria": {
+      "Moda i akcesoria dziecięce": [],
+      "Moda i biżuteria damska": {
+        "Bielizna i stroje kąpielowe": [],
+        "Biżuteria akcesoria i dodatki": [],
+        "Bluzki bluzy i swetry damskie": [],
+        "Kurtki i płaszcze damskie": [],
+        "Obuwie damskie": [],
+        "Spodnie i szorty damskie": [],
+        "Spódnice i sukienki": []
+      },
+      "Moda i biżuteria męska": {
+        "Bielizna i kąpielówki": [],
+        "Biżuteria akcesoria i dodatki męskie": [],
+        "Koszule i garnitury": [],
+        "Koszulki bluzy i swetry męskie": [],
+        "Kurtki i płaszcze męskie": [],
+        "Obuwie męskie": [],
+        "Spodnie i szorty męskie": []
+      },
+      "Zegarki na rękę damskie": [],
+      "Zegarki na rękę męskie": []
+    },
+    "Motoryzacja": {
+      "Akcesoria motoryzacyjne": [],
+      "Audio do samochodu": [],
+      "Ładowarki do samochodu": [],
+      "Wideo-rejestratory jazdy": []
+    },
+    "Multimedia": {
+      "Filmy na DVD i Blu-Ray": [],
+      "Gadżety figurki i zabawki": [],
+      "Gry na PC i konsole": [],
+      "Książki i komiksy": [],
+      "Płyty CD i winylowe": [],
+      "Sprzęt muzyczny": []
+    },
+    "RTV": {
+      "Akcesoria RTV": [],
+      "Sprzęt Audio i HiFi": [],
+      "Telewizory i kino domowe": [],
+      "TV Sticki i Dongle": []
+    },
+    "Smartfony i akcesoria": {
+      "Akcesoria mobilne": [],
+      "Etui na smartfony": [],
+      "Smartbandy": [],
+      "Smartfony i phablety": [],
+      "Smartwatche": []
+    },
+    "Sport": {
+      "Akcesoria sportowe": [],
+      "Odzież sportowa damska": [],
+      "Odzież sportowa męska": [],
+      "Sportowy sprzęt elektroniczny": []
+    },
+    "Wyposażenie biura": [],
+    "Zdrowie i uroda": {
+      "Kosmetyki dla kobiet": [],
+      "Kosmetyki dla mężczyzn": []
+    }
+  },
+  "Sport i rekreacja": {
+    "Bieganie": {
+      "Akcesoria do biegania": [],
+      "Buty do biegania": [],
+      "Maski antysmogowe": [],
+      "Monitory pracy serca, pulsometry": [],
+      "Odzież do biegania": {
+        "Bielizna do biegania": [],
+        "Bluzy do biegania": [],
+        "Czapki i chusty do biegania": [],
+        "Koszulki do biegania": [],
+        "Kurtki do biegania": [],
+        "Pozostała odzież do biegania": [],
+        "Rękawiczki do biegania": [],
+        "Spodenki do biegania": [],
+        "Spodnie do biegania": []
+      }
+    },
+    "Gadżety i trofea sportowe": {
+      "Gadżety kibica": [],
+      "Koszulki kibica": [],
+      "Trofea sportowe": []
+    },
+    "Odżywki i suplementy": {
+      "Aminokwasy i glutaminy": [],
+      "Batony": [],
+      "Boostery testosteronu": [],
+      "Gainery": [],
+      "Kreatyny i staki": [],
+      "Napoje izotoniczne i energetyczne": [],
+      "Ochrona stawów": [],
+      "Odżywki białkowe": [],
+      "Odżywki węglowodanowe": [],
+      "Pozostałe preparaty dla sportowców": [],
+      "Przedtreningówki": [],
+      "Shakery sportowe i akcesoria": [],
+      "Spalacze tłuszczu": [],
+      "Witaminy i minerały dla sportowców": []
+    },
+    "Rowery i akcesoria": {
+      "Akcesoria rowerowe": {
+        "Bagażniki rowerowe": [],
+        "Bidony rowerowe": [],
+        "Błotniki rowerowe": [],
+        "Foteliki rowerowe": [],
+        "Kosze rowerowe": [],
+        "Koszyki na bidony": [],
+        "Liczniki rowerowe": [],
+        "Maski przeciwpyłowe": [],
+        "Narzędzia rowerowe": [],
+        "Oleje i płyny rowerowe": [],
+        "Oświetlenie rowerowe": [],
+        "Pompki rowerowe": [],
+        "Pozostałe akcesoria rowerowe": [],
+        "Przyczepki rowerowe": [],
+        "Sakwy rowerowe": [],
+        "Zabezpieczenia rowerów": []
+      },
+      "Części rowerowe": {
+        "Amortyzatory rowerowe": [],
+        "Dętki rowerowe": [],
+        "Hamulce rowerowe": [],
+        "Kasety łańcuchy i wolnobiegi": {
+          "Kasety": "",
+          "Łańcuchy rowerowe": "",
+          "Spinki i ogniwa": "",
+          "Wolnobiegi": ""
+        },
+        "Kierownice rowerowe": [],
+        "Koła rowerowe": [],
+        "Manetki rowerowe": [],
+        "Mechanizmy korbowe i części": [],
+        "Opony rowerowe": [],
+        "Pedały i akcesoria": [],
+        "Piasty rowerowe": [],
+        "Pozostałe części rowerowe": [],
+        "Przerzutki rowerowe": [],
+        "Ramy rowerowe": [],
+        "Siodełka rowerowe": [],
+        "Sztyce podsiodłowe": []
+      },
+      "Kaski rowerowe": [],
+      "Obuwie rowerowe": [],
+      "Odzież rowerowa": [],
+      "Okulary sportowe": [],
+      "Rękawiczki rowerowe": [],
+      "Rowery": []
+    },
+    "Siłownia i fitness": {
+      "Atlasy treningowe": [],
+      "Bieżnie treningowe": [],
+      "Drabinki treningowe": [],
+      "Ekspandery": [],
+      "Gryfy": [],
+      "Hantle": [],
+      "Hula hop": [],
+      "Ławki treningowe": [],
+      "Masażery i platformy wibracyjne": [],
+      "Maty do ćwiczeń": [],
+      "Odzież fitness": [],
+      "Piłki do ćwiczeń": [],
+      "Pozostały sprzęt siłowy i fitness": [],
+      "Rękawiczki do ćwiczeń": [],
+      "Rowery i trenażery treningowe": [],
+      "Skakanki": [],
+      "Stepy i steppery": [],
+      "Sztangi": [],
+      "Talerze do sztang": [],
+      "Taśmy i gumy do ćwiczeń": [],
+      "Trampoliny": [],
+      "Twistery": [],
+      "Wiosła treningowe": []
+    },
+    "Skating": {
+      "Deskorolki": [],
+      "Fingerboard i fingerbike": [],
+      "Hulajnogi": [],
+      "Kaski i ochraniacze": [],
+      "Pozostały sprzęt i akcesoria do skatingu": [],
+      "Rolki": []
+    },
+    "Sporty towarzyskie i rekreacja": {
+      "Bilard": {
+        "Akcesoria bilardowe": [],
+        "Bile": [],
+        "Kije bilardowe": [],
+        "Stoły bilardowe": []
+      },
+      "Dart": [],
+      "Golf": [],
+      "Jeździectwo": {
+        "Osprzęt dla koni": [],
+        "Wyposażenie jeźdźca": [],
+        "Żywienie i pielęgnacja koni": []
+      },
+      "Paintball": [],
+      "Piłkarzyki": [],
+      "Pozostałe sporty towarzyskie": [],
+      "Taniec": {
+        "Akcesoria do tańca": [],
+        "Obuwie do tańca": [],
+        "Stroje do tańca": []
+      },
+      "Trekking i Nordic Walking": []
+    },
+    "Sporty walki": {
+      "Kimona i stroje do walki": [],
+      "Ochraniacze do sportów walki": [],
+      "Pozostałe akcesoria do sportów walki": [],
+      "Rękawice do sportów walki": [],
+      "Worki i gruszki": []
+    },
+    "Sporty wodne": {
+      "Kajakarstwo": {
+        "Kajaki": [],
+        "Wiosła": []
+      },
+      "Kitesurfing": {
+        "Akcesoria do kitesurfingu": [],
+        "Deski do kitesurfingu": [],
+        "Latawce do kitesurfingu": [],
+        "Trapezy do kitesurfingu": []
+      },
+      "Narty wodne banany i ringo": [],
+      "Nurkowanie": {
+        "Automaty oddechowe i octopusy": [],
+        "Butle do nurkowania": [],
+        "Jackety i kamizelki do nurkowania": [],
+        "Komputery konsole i sprzęt pomiarowy": [],
+        "Maski rurki i płetwy": [],
+        "Oświetlenie nurkowe": [],
+        "Pozostały sprzęt do nurkowania": []
+      },
+      "Pianki i skafandry": [],
+      "Pływanie": {
+        "Buty do wody": [],
+        "Czepki": [],
+        "Klapki na basen": [],
+        "Kostiumy kąpielowe": [],
+        "Okulary do pływania": [],
+        "Pozostałe akcesoria pływackie": [],
+        "Spodenki kąpielowe": []
+      },
+      "Pontony": [],
+      "Pozostałe akcesoria do sportów wodnych": [],
+      "Wakeboard": [],
+      "Windsurfing": {
+        "Deski do windsurfingu": [],
+        "Maszty do windsurfingu": [],
+        "Obuwie do windsurfingu": [],
+        "Odzież do windsurfingu": [],
+        "Pozostałe akcesoria do windsurfingu": [],
+        "Trapezy do windsurfingu": [],
+        "Żagle do windsurfingu": []
+      },
+      "Wodny sprzęt asekuracyjny i ratunkowy": []
+    },
+    "Sporty zespołowe": {
+      "Akcesoria sędziowskie": [],
+      "Baseball": [],
+      "Koszykówka": {
+        "Kosze do koszykówki": [],
+        "Obuwie do koszykówki": [],
+        "Odzież do koszykówki": [],
+        "Piłki do koszykówki": []
+      },
+      "Piłka nożna": {
+        "Bramki piłkarskie": [],
+        "Buty piłkarskie": [],
+        "Kostiumy piłkarskie": [],
+        "Ochraniacze piłkarskie": [],
+        "Piłki do piłki nożnej": [],
+        "Pozostałe akcesoria do piłki nożnej": [],
+        "Rękawice bramkarskie": []
+      },
+      "Piłka ręczna": {
+        "Kleje i środki do usuwania kleju": [],
+        "Obuwie do piłki ręcznej": [],
+        "Odzież do piłki ręcznej": [],
+        "Opaski i ochraniacze do piłki ręcznej": [],
+        "Piłki do piłki ręcznej": [],
+        "Pozostałe akcesoria do piłki ręcznej": [],
+        "Siatki do piłki ręcznej": []
+      },
+      "Pozostałe sporty zespołowe": [],
+      "Rugby": {
+        "Obuwie do rugby": [],
+        "Ochraniacze do rugby": [],
+        "Odzież do rugby": [],
+        "Piłki do rugby": [],
+        "Pozostałe akcesoria do rugby": []
+      },
+      "Siatkówka": {
+        "Akcesoria do siatkówki": [],
+        "Nakolanniki i rękawki do siatkówki": [],
+        "Obuwie do siatkówki": [],
+        "Odzież do siatkówki": [],
+        "Piłki do siatkówki": [],
+        "Siatki do siatkówki": []
+      },
+      "Unihokej": {
+        "Bramki do unihokeja": [],
+        "Kije do unihokeja": [],
+        "Krążki i piłeczki do unihokeja": [],
+        "Pozostałe akcesoria do unihokeja": []
+      }
+    },
+    "Sporty zimowe": {
+      "Akcesoria do sportów zimowych": {
+        "Ochraniacze do sportów zimowych": [],
+        "Pokrowce i torby": [],
+        "Pozostałe akcesoria do sportów zimowych": [],
+        "Smary i narzędzia": []
+      },
+      "Buty narciarskie": [],
+      "Buty snowboardowe": [],
+      "Deski snowboardowe": [],
+      "Gogle narciarskie i snowboardowe": [],
+      "Hokej": {
+        "Bramki do hokeja": [],
+        "Kaski i ochraniacze do hokeja": [],
+        "Kije do hokeja": [],
+        "Krążki do hokeja": [],
+        "Odzież do hokeja": [],
+        "Pozostałe akcesoria do hokeja": []
+      },
+      "Kaski narciarskie i snowboardowe": [],
+      "Kijki narciarskie": [],
+      "Łyżwy": [],
+      "Narty": [],
+      "Odzież zimowa": {
+        "Bielizna i odzież termoaktywna": [],
+        "Kombinezony i spodnie zimowe": [],
+        "Kurtki narciarskie i snowboardowe": [],
+        "Pozostała odzież zimowa": [],
+        "Rękawice narciarskie i snowboardowe": []
+      },
+      "Rakiety śnieżne": [],
+      "Sanki i ślizgacze": [],
+      "Wiązania": []
+    },
+    "Tenis i pokrewne": {
+      "Badminton": {
+        "Akcesoria do badmintona": [],
+        "Lotki do badmintona": [],
+        "Rakietki do badmintona": [],
+        "Siatki do badmintona": []
+      },
+      "Obuwie do tenisa": [],
+      "Odzież do tenisa": [],
+      "Squash": {
+        "Akcesoria do squasha": [],
+        "Owijki do squasha": [],
+        "Piłki do squasha": [],
+        "Rakiety do squasha": [],
+        "Torby do squasha": []
+      },
+      "Tenis stołowy": {
+        "Akcesoria do tenisa stołowego": [],
+        "Piłeczki do tenisa stołowego": [],
+        "Rakietki do tenisa stołowego": [],
+        "Siatki do tenisa stołowego": [],
+        "Stoły do tenisa": []
+      },
+      "Tenis ziemny": {
+        "Akcesoria do tenisa ziemnego": [],
+        "Naciągi tenisowe": [],
+        "Owijki tenisowe": [],
+        "Piłki do tenisa": [],
+        "Rakiety do tenisa": [],
+        "Siatki do tenisa ziemnego": [],
+        "Torby i pokrowce na rakiety tenisowe": []
+      }
+    },
+    "Turystyka": {
+      "Akcesoria turystyczne": [],
+      "Góry i wspinaczka": {
+        "Kaski wspinaczkowe": [],
+        "Obuwie wspinaczkowe": [],
+        "Odzież wspinaczkowa": [],
+        "Sprzęt wspinaczkowy": []
+      },
+      "Impregnaty do sprzętu turystycznego": [],
+      "Kompasy": [],
+      "Latarki": [],
+      "Lodówki turystyczne": [],
+      "Materace turystyczne": [],
+      "Meble turystyczne": [],
+      "Naczynia i sztućce turystyczne": [],
+      "Namioty": [],
+      "Odzież i obuwie trekkingowe": {
+        "Bluzki trekkingowe": [],
+        "Buty trekkingowe": [],
+        "Kurtki i bluzy outdoor": [],
+        "Spodnie trekkingowe": []
+      },
+      "Palniki i kuchenki turystyczne": [],
+      "Plecaki": [],
+      "Scyzoryki i multitools": [],
+      "Sprzęt plażowy": [],
+      "Śpiwory": [],
+      "Termosy i kubki": []
+    }
+  },
+  "Sprzęt AGD": {
+    "AGD do zabudowy": {
+      "Ekspresy do kawy do zabudowy": [],
+      "Kuchenki mikrofalowe do zabudowy": [],
+      "Kuchnie do zabudowy": [],
+      "Lodówki i zamrażarki do zabudowy": {
+        "Lodówki do zabudowy": [],
+        "Witryny chłodnicze do zabudowy": [],
+        "Zamrażarki do zabudowy": []
+      },
+      "Okapy i akcesoria": {
+        "Akcesoria do okapów": [],
+        "Filtry do okapów": [],
+        "Okapy": []
+      },
+      "Piekarniki": [],
+      "Płyty do zabudowy": {
+        "Płyty elektryczne do zabudowy": [],
+        "Płyty gazowe do zabudowy": [],
+        "Płyty gazowo-elektryczne do zabudowy": [],
+        "Pozostałe płyty do zabudowy": []
+      },
+      "Pralki i suszarki do zabudowy": {
+        "Pralki do zabudowy": [],
+        "Pralko suszarki do zabudowy": [],
+        "Suszarki do zabudowy": []
+      },
+      "Szuflady do podgrzewania naczyń": [],
+      "Zmywarki do zabudowy": []
+    },
+    "AGD wolnostojące": {
+      "Kuchenki elektryczne": [],
+      "Kuchenki gazowe": [],
+      "Kuchenki gazowo-elektryczne": [],
+      "Lodówki": [],
+      "Płyty wolnostojące": [],
+      "Pralki": [],
+      "Pralko suszarki": [],
+      "Suszarki": [],
+      "Witryny chłodnicze": [],
+      "Zamrażarki": [],
+      "Zestawy zintegrowane AGD": [],
+      "Zmywarki": []
+    },
+    "Akcesoria i zestawy AGD": {
+      "Akcesoria i części do AGD": [],
+      "Zestawy AGD": []
+    },
+    "Małe AGD do domu": {
+      "Golarki do ubrań": [],
+      "Maszyny do szycia": [],
+      "Mopy parowe": [],
+      "Myjki do okien": [],
+      "Nawilżacze": [],
+      "Oczyszczacze powietrza": [],
+      "Odkurzacze i akcesoria": {
+        "Akcesoria do odkurzaczy": [],
+        "Filtry do odkurzaczy": [],
+        "Odkurzacze": {
+          "Odkurzacze automatyczne": "",
+          "Odkurzacze pionowe": "",
+          "Odkurzacze ręczne": "",
+          "Odkurzacze tradycyjne": ""
+        },
+        "Worki do odkurzaczy": []
+      },
+      "Parownice do ubrań": [],
+      "Pozostałe małe AGD do domu": [],
+      "Stacje parowe": [],
+      "Stacje pogody i mierniki ozdobne": [],
+      "Wagi łazienkowe": [],
+      "Wentylatory przenośne": [],
+      "Żelazka": []
+    },
+    "Małe AGD do kuchni": {
+      "Blendery kielichowe": [],
+      "Blendery ręczne": [],
+      "Czajniki elektryczne": [],
+      "Dzbanki i wkłady filtrujące": {
+        "Butelki filtrujące": [],
+        "Dzbanki filtrujące": [],
+        "Wkłady filtrujące": []
+      },
+      "Ekspresy do kawy": {
+        "Ekspresy ciśnieniowe": [],
+        "Ekspresy kapsułkowe": [],
+        "Ekspresy przelewowe": []
+      },
+      "Frytownice": [],
+      "Gofrownice": [],
+      "Jajowary": [],
+      "Krajalnice": [],
+      "Kuchenki mikrofalowe": [],
+      "Maszynki do mielenia": [],
+      "Miksery ręczne": [],
+      "Mini piekarniki": [],
+      "Młynki do kawy": [],
+      "Multicookery": [],
+      "Opiekacze": [],
+      "Parowary i kombiwary": [],
+      "Patelnie elektryczne": [],
+      "Pozostałe małe AGD do kuchni": [],
+      "Raclette i grille elektryczne": [],
+      "Roboty kuchenne": [],
+      "Sokowirówki": [],
+      "Spieniacze do mleka": [],
+      "Suszarki do warzyw i owoców": [],
+      "Tostery": [],
+      "Urządzenia do lodów i jogurtów": [],
+      "Wagi kuchenne": [],
+      "Wolnowary": [],
+      "Wyciskarki do owoców": [],
+      "Wypiekacze do chleba": [],
+      "Zgrzewarki do folii": []
+    },
+    "Urządzenia do pielęgnacji ciała": {
+      "Depilatory i golarki damskie": [],
+      "Elektryczne szczoteczki do zębów": [],
+      "Golarki męskie": [],
+      "Irygatory do zębów": [],
+      "Końcówki do irygatorów": [],
+      "Końcówki do szczoteczek elektrycznych": [],
+      "Lokówki i termoloki": [],
+      "Masażery": [],
+      "Maszynki do strzyżenia": [],
+      "Pozostałe urządzenia do pielęgnacji ciała": [],
+      "Prostownice i karbownice": [],
+      "Suszarki do włosów": [],
+      "Suszarko-lokówki": [],
+      "Szczoteczki do twarzy": [],
+      "Trymery": []
+    },
+    "Usługi i serwis AGD": []
+  },
+  "Sprzęt RTV": {
+    "Audio": {
+      "Akcesoria Audio": [],
+      "Amplitunery": [],
+      "Gramofony": [],
+      "Kolumny i głośniki": {
+        "Głośniki": [],
+        "Kolumny centralne": [],
+        "Kolumny podłogowe": [],
+        "Kolumny podstawkowe": [],
+        "Kolumny surround": [],
+        "Kolumny ścienne": [],
+        "Kolumny zewnętrzne": [],
+        "Subwoofery": [],
+        "Zestawy kolumn": []
+      },
+      "Odtwarzacze CD": [],
+      "Pozostały sprzęt audio": [],
+      "Radia": [],
+      "Radia internetowe": [],
+      "Radiobudziki": [],
+      "Radioodtwarzacze": [],
+      "Słuchawki": [],
+      "Soundbary": [],
+      "Tunery radiowe": [],
+      "Uchwyty stojaki i podstawy głośnikowe": [],
+      "Wieże": [],
+      "Wzmacniacze audio": [],
+      "Zestawy stereo": []
+    },
+    "Kable przewody i wtyki": [],
+    "Nawigacje GPS": {
+      "Akcesoria GPS": [],
+      "Mapy do nawigacji": [],
+      "Nawigacja samochodowa": [],
+      "Nawigacja turystyczna": [],
+      "Nawigacja wodna": [],
+      "Odbiorniki GPS": []
+    },
+    "Sprzęt car audio video": {
+      "Akcesoria car audio video": [],
+      "Głośniki samochodowe": [],
+      "Radioodtwarzacze samochodowe": [],
+      "Samochodowe panele LCD TV": [],
+      "Wzmacniacze samochodowe": []
+    },
+    "Sprzęt przenośny": {
+      "Akcesoria do sprzętu przenośnego": {
+        "Ładowarki do sprzętu przenośnego": [],
+        "Pokrowce i etui do sprzętu przenośnego": [],
+        "Pozostałe akcesoria do sprzętu przenośnego": []
+      },
+      "Dyktafony": [],
+      "Głośniki przenośne": [],
+      "Odtwarzacze mp3 i mp4": [],
+      "Power audio": [],
+      "Pozostały sprzęt przenośny": [],
+      "Przenośne odtwarzacze DVD": []
+    },
+    "Stoliki uchwyty i półki RTV": [],
+    "Telewizory": [],
+    "Video": {
+      "Akcesoria video": {
+        "Dongle": [],
+        "Okulary 3D": [],
+        "Piloty": [],
+        "Pozostałe akcesoria video": [],
+        "Przekaźniki audio-video": [],
+        "Splittery video": []
+      },
+      "Kamery i akcesoria": {
+        "Akcesoria do kamer": {
+          "Baterie do kamer": "",
+          "Obiektywy do kamer": "",
+          "Pozostałe akcesoria do kamer": "",
+          "Torby na kamery": ""
+        },
+        "Kamery cyfrowe": [],
+        "Kamery sportowe": []
+      },
+      "Odtwarzacze i nagrywarki": {
+        "Nagrywarki DVD i Blu-ray": [],
+        "Odtwarzacze Blu-ray": [],
+        "Odtwarzacze DVD": [],
+        "Odtwarzacze multimedialne": []
+      },
+      "Pozostały sprzęt video": [],
+      "Sprzęt naziemny": {
+        "Akcesoria do sprzętu naziemnego": [],
+        "Anteny naziemne": [],
+        "Tunery naziemne": [],
+        "Wzmacniacze antenowe": []
+      },
+      "Sprzęt satelitarny": {
+        "Akcesoria satelitarne": [],
+        "Anteny satelitarne": [],
+        "Konwertery satelitarne": [],
+        "Mierniki i wzmacniacze sygnału": [],
+        "Multiswitche": [],
+        "Tunery satelitarne": []
+      },
+      "Zestawy kina domowego": []
+    }
+  },
+  "Telefony i akcesoria": {
+    "Akcesoria telefoniczne": {
+      "Akcesoria do telefaksów": [],
+      "Baterie do telefonów": [],
+      "Folie i szkła ochronne": [],
+      "Karty pamięci": [],
+      "Kijki do selfie": [],
+      "Ładowarki do telefonów": [],
+      "Mobilne VR": [],
+      "Paski i akcesoria do smartwatchy": [],
+      "Podzespoły do telefonów": [],
+      "Pokrowce i etui do telefonów": [],
+      "Powerbanki": [],
+      "Pozostałe akcesoria telefoniczne": [],
+      "Uchwyty samochodowe": [],
+      "Zestawy głośnomówiące": [],
+      "Zestawy słuchawkowe": []
+    },
+    "Bramki GSM UMTS": [],
+    "Doładowania i startery": [],
+    "Faksy": [],
+    "Radiotelefony i krótkofalówki": [],
+    "Smartwatche i Smartbandy": [],
+    "Telefonia VoIP": {
+      "Bramki VoIP": [],
+      "Telefony VoIP": []
+    },
+    "Telefony komórkowe": {
+      "Klasyczne telefony komórkowe": [],
+      "Smartfony": []
+    },
+    "Telefony stacjonarne": []
+  },
+  "Uroda": {
+    "Artykuły higieniczne": {
+      "Chusteczki higieniczne": [],
+      "Chusteczki nawilżane": [],
+      "Papiery toaletowe": [],
+      "Patyczki higieniczne": [],
+      "Płatki kosmetyczne": []
+    },
+    "Higiena jamy ustnej": {
+      "Akcesoria ortodontyczne": [],
+      "Nici dentystyczne": [],
+      "Pasty do zębów": [],
+      "Pielęgnacja protez": [],
+      "Płyny do płukania ust": [],
+      "Szczoteczki do zębów": [],
+      "Szczoteczki międzyzębowe": [],
+      "Świeży oddech": [],
+      "Wybielanie zębów": []
+    },
+    "Kosmetyczki": [],
+    "Kosmetyki dla mężczyzn": {
+      "Męskie kosmetyki do pielęgnacji ciała": [],
+      "Męskie kosmetyki do pielęgnacji twarzy": [],
+      "Męskie kosmetyki do pielęgnacji włosów": [],
+      "Męskie kosmetyki i akcesoria do golenia": [],
+      "Zestawy dla mężczyzn": []
+    },
+    "Kosmetyki i akcesoria do kąpieli": {
+      "Akcesoria do kąpieli": [],
+      "Mydła": [],
+      "Peelingi i scruby do ciała": [],
+      "Płyny i olejki do kąpieli": [],
+      "Pozostałe kosmetyki do kąpieli": [],
+      "Sole do kąpieli": [],
+      "Żele i balsamy pod prysznic": []
+    },
+    "Makijaż": {
+      "Akcesoria do makijażu": [],
+      "Makijaż oczu": {
+        "Bazy pod cienie": [],
+        "Cienie do powiek": [],
+        "Eyelinery": [],
+        "Kredki do oczu": [],
+        "Odżywki i serum do rzęs": [],
+        "Stylizacja brwi": [],
+        "Sztuczne rzęsy": [],
+        "Tusze do rzęs": []
+      },
+      "Makijaż twarzy": {
+        "Bazy pod makijaż": [],
+        "Bronzery do twarzy": [],
+        "Korektory do twarzy": [],
+        "Kremy koloryzujące": [],
+        "Podkłady do twarzy": [],
+        "Pudry do twarzy": [],
+        "Rozświetlacze do twarzy": [],
+        "Róże do twarzy": []
+      },
+      "Makijaż ust": {
+        "Błyszczyki do ust": [],
+        "Konturówki do ust": [],
+        "Pielęgnacja ust": [],
+        "Pomadki do ust": []
+      },
+      "Pędzle do makijażu": [],
+      "Zestawy do makijażu": []
+    },
+    "Manicure i pedicure": {
+      "Akcesoria do manicure i pedicure": [],
+      "Kosmetyki do rąk": [],
+      "Kosmetyki do stóp": [],
+      "Lakiery do paznokci": [],
+      "Lakiery hybrydowe": [],
+      "Ozdoby i sztuczne paznokcie": [],
+      "Podkłady utwardzacze odżywki": [],
+      "Urządzenia do manicure i pedicure": [],
+      "Zestawy do manicure hybrydowego": [],
+      "Zmywacze i korektory do paznokci": [],
+      "Żele i akryle": []
+    },
+    "Perfumy i wody": {
+      "Zapachy damskie": {
+        "Antyperspiranty i dezodoranty damskie": [],
+        "Perfumy i wody damskie": []
+      },
+      "Zapachy męskie": {
+        "Antyperspiranty i dezodoranty męskie": [],
+        "Perfumy i wody męskie": []
+      },
+      "Zapachy unisex": []
+    },
+    "Pielęgnacja ciała": {
+      "Balsamy i mleczka do ciała": [],
+      "Depilacja": [],
+      "Higiena intymna": {
+        "Chusteczki do higieny intymnej": [],
+        "Kubeczki menstruacyjne": [],
+        "Płyny do higieny intymnej": [],
+        "Podpaski": [],
+        "Tampony": [],
+        "Wkładki higieniczne": []
+      },
+      "Kremy i masła do ciała": [],
+      "Masaż": [],
+      "Mgiełki do ciała": [],
+      "Opalanie": {
+        "Kosmetyki brązujące": [],
+        "Kosmetyki do opalania": [],
+        "Kosmetyki po opalaniu": [],
+        "Samoopalacze": []
+      },
+      "Pielęgnacja biustu": [],
+      "Pielęgnacja kobiet w ciąży": [],
+      "Pozostałe kosmetyki do pielęgnacji ciała": [],
+      "Wyszczuplanie i ujędrnianie": []
+    },
+    "Pielęgnacja i stylizacja włosów": {
+      "Akcesoria do pielęgnacji i stylizacji włosów": [],
+      "Farby i szampony koloryzujące": [],
+      "Kosmetyki do stylizacji włosów": [],
+      "Maski do włosów": [],
+      "Odżywki do włosów": [],
+      "Ozdoby do włosów": [],
+      "Pozostałe kosmetyki do włosów": [],
+      "Szampony do włosów": []
+    },
+    "Pielęgnacja twarzy": {
+      "Kosmetyki pod oczy": [],
+      "Kremy do twarzy": [],
+      "Maseczki": [],
+      "Oczyszczanie i demakijaż twarzy": [],
+      "Olejki do twarzy": [],
+      "Peelingi i scruby do twarzy": [],
+      "Pozostałe kosmetyki do pielęgnacji twarzy": [],
+      "Serum do twarzy": [],
+      "Toniki i hydrolaty do twarzy": []
+    },
+    "Pozostałe kosmetyki i akcesoria pielęgnacyjne": [],
+    "Zestawy dla kobiet": []
+  },
+  "Zdrowie": {
+    "Akcesoria dla osób starszych i niepełnosprawnych": {
+      "Higiena osób starszych i niepełnosprawnych": [],
+      "Pokonywanie barier": [],
+      "Samodzielność": [],
+      "Wózki inwalidzkie balkoniki i laski": []
+    },
+    "Antykoncepcja": [],
+    "Apteczki i materiały opatrunkowe": [],
+    "Artykuły medyczne i rehabilitacyjne": {
+      "Akcesoria do rehabilitacji": [],
+      "Bielizna lecznicza": [],
+      "Ciśnieniomierze i akcesoria": [],
+      "Glukometry i akcesoria dla diabetyków": [],
+      "Inhalatory i akcesoria": [],
+      "Opaski elastyczne": [],
+      "Poduszki koce i materace lecznicze": [],
+      "Pozostałe artykuły medyczne i rehabilitacyjne": [],
+      "Stabilizatory i usztywniacze": [],
+      "Termofory": [],
+      "Termometry": [],
+      "Wkładki korygujące": []
+    },
+    "Dermokosmetyki": [],
+    "Homeopatia": [],
+    "Leki OTC": {
+      "Alergia": [],
+      "Ciąża i macierzyństwo": [],
+      "Diabetycy": [],
+      "Dzieci i niemowlęta": [],
+      "Jama ustna": [],
+      "Mięśnie stawy i kości": [],
+      "Nutrikosmetyki i leki dermatologiczne": [],
+      "Odchudzanie i ujędrnianie": [],
+      "Pozostałe leki OTC": [],
+      "Przeciwbólowe": [],
+      "Przeziębienie i grypa": [],
+      "Rzuć palenie": [],
+      "Serce i układ krążenia": [],
+      "Układ moczowy i płciowy": [],
+      "Układ nerwowy": [],
+      "Układ pokarmowy": [],
+      "Witaminy i minerały": [],
+      "Wzrok i słuch": [],
+      "Żywienie medyczne": []
+    },
+    "Maski antysmogowe": [],
+    "Medycyna naturalna": {
+      "Akcesoria medycyny naturalnej": [],
+      "Preparaty medycyny naturalnej": [],
+      "Zioła i herbaty lecznicze": []
+    },
+    "Okulary i akcesoria": {
+      "Akcesoria do okularów": [],
+      "Okulary oprawki i szkła": []
+    },
+    "Soczewki kontaktowe i akcesoria": {
+      "Akcesoria do soczewek": [],
+      "Soczewki kontaktowe": []
+    },
+    "Suplementy diety": [],
+    "Testy ciążowe i diagnostyczne": []
+  }
+}
